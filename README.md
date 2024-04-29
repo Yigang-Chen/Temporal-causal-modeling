@@ -1,5 +1,5 @@
 # Temporal-causal-modeling
-the algorithm for paper "A Temporal Causal Signaling Model for E. coli's Aerobic-to-Anaerobic Transition"
+the algorithm and data for paper "A Temporal Causal Signaling Model for E. coli's Aerobic-to-Anaerobic Transition"
 
 # Pathway-Intepreter
 The Pathway Interpreter toolbox is envisioned as a computational tool developed to facilitate the analysis of regulatory/ metabolic pathways with system biology method (In detail, the Previous Network Analysis or Causal Analysis). Utilizing validated biological pathway information, it seeks to predict regulatory networks linked to speciﬁc biological processes or drug mechanisms of action (MOA).
