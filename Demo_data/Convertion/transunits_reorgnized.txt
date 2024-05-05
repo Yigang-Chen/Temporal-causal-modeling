@@ -1,0 +1,3699 @@
+UNIQUE-ID	NAME
+TU0-14531	nuoMN
+TU00506	leuX
+TU0-6636	atpBEFHAGDC
+TU0-14105	yjaA
+TU00063	rhaSR
+TU0-13000	dpiBA
+TU0-13637	maeB
+TU0-13400	mipA
+TU0-4222	rseP
+TU0-14616	['ybbY', 'glxK']
+TU0-8660	yrdA
+TU0-7044	uvrB
+TU00448	nuoABCEFGHIJKLMN
+TU00104	fumA
+TU0-14037	rhlB
+TU0-13682	yfjD
+TU0-12936	decR
+TU0-42498	yibD
+TU721	grxA
+TU0-8704	eamA
+TU0-13340	ynfL
+TU00490	thrW
+TU0-14512	argQ
+TU0-14080	sbp
+TU0-6563	ssb
+TU0-12982	tfaD
+TU00047	['nrdAB', 'yfaE']
+TU0-13381	ydiZ
+TU0-13620	['ligA', 'ypeB']
+TU0-14567	['hfq', 'hflXKC']
+TU0-4182	rfaDFCL
+TU0-6882	ilvIH
+TU0-8643	yoaE
+TU00087	tyrB
+TU00431	uspA
+TU0-13663	yphFED
+TU0-14020	yidB
+TU0-42474	shiA
+TU0-12916	ykiA
+TU0-8687	ycgJ
+TU621	dcuA
+TU00474	glnB
+TU0-13323	rem
+TU0-14063	yihN
+TU0-14490	clpPX
+TU0-12964	ybcI
+TU0-6509	lpp
+TU863	['clsA', 'yciU']
+TU00031	glpD
+TU0-13365	fumD
+TU0-13603	yfdONMLK
+TU0-14545	['safA', 'ydeO']
+TU0-4	yggN
+TU0-6653	pheLA
+TU0-8626	yjiR
+TU00071	uvrD
+TU00414	['rlmE', 'ftsH']
+TU0-13646	hda
+TU0-14005	xanP
+TU0-42455	['gpmM', 'envC', 'yibQ']
+TU0-12895	yahK
+TU0-8670	ybjD
+TU546	adhE
+TU00456	soxR
+TU0-13305	yneJ
+TU0-14046	pldA
+TU0-14467	glnS
+TU0-12944	mscK
+TU0-6442	pepD
+TU788	pfkA
+TU00015	cirA
+TU0-13349	hdhA
+TU0-13586	yfcE
+TU0-14521	lacYA
+TU0-36435	yjbEFGH
+TU0-6623	['tesA', 'ybbO']
+TU0-8608	yjcB
+TU00055	purC
+TU00397	treR
+TU0-13628	intZ
+TU0-13990	yibJ
+TU0-4191	yggN
+TU0-12879	ecpA
+TU0-8651	yphH
+TU0-13288	digH
+TU00439	['upp', 'uraA']
+TU0-14439	['rsmH', 'ftsLI', 'murEF', 'mraY', 'murD', 'ftsW', 'murGC', 'ddlB', 'ftsQAZ', 'lpxC']
+TU0-14029	['mnmG', 'rsmG']
+TU0-6301	['dinG', 'ybiB']
+TU0-12926	ampG
+TU0-13285	yddM
+TU682	['rpmH', 'rnpA']
+TU0-14429	csgDEFG
+TU0-13331	['dicB', 'ydfDE', 'insD', 'intQ']
+TU0-6223	['metY', 'yhbC', 'nusA', 'infB', 'rbfA', 'truB', 'rpsO', 'pnp']
+TU0-14500	yajO
+TU0-961	sohB
+TU0-6551	gltX
+TU0-13567	yfaY
+TU00039	malPQ
+TU0-36408	yciG
+TU0-13611	tpke70
+TU0-8588	yhjB
+TU0-41673	bhsA
+TU00378	['focA', 'pflB']
+TU0-8635	ymfI
+TU0-13969	yhjG
+TU00423	['hscBA', 'fdx', 'iscX']
+TU0-12860	['ykfA', 'yafZ']
+TU0-14013	emrD
+TU0-13267	ydcR
+TU0-12905	yaiX
+TU0-14406	hypF
+TU584	degP
+TU0-5781	['mutY', 'yggX']
+TU0-13314	ydfJ
+TU0-8856	pheM
+TU0-14475	creABC
+TU0-13551	pdeN
+TU0-6486	cspD
+TU0-3464	yeaY
+TU00023	frdABCD
+TU0-8571	tsaD
+TU0-13594	yfcUSRQPO
+TU00361	sspAB
+TU0-3741	metBL
+TU0-13949	yhhH
+TU0-8616	yjgB
+TU0-12841	mltD
+TU00405	htgA
+TU0-13250	ynbABCD
+TU0-13998	['gpmM', 'envC', 'yibQ']
+TU0-14386	mreBCD
+TU0-12887	ykgEFG
+TU0-5522	['yicR', 'rpmBG', 'mutM']
+TU0-13297	yneO
+TU0-8835	['insH', '8']
+TU0-14455	['clpX', 'lon']
+TU0-13531	yohF
+TU0-6407	['pyrF', 'yciH']
+TU0-3301	recF
+TU00007	argR
+TU0-8554	yaiZ
+TU0-13578	yfbP
+TU00344	['rpoZ', 'spoT', 'trmH', 'recG']
+TU0-36424	ssrS
+TU0-13931	greB
+TU0-8599	cbrA
+TU0-12822	['mnt', 'btuF', 'yadS']
+TU00389	osmB
+TU0-13232	rzoR
+TU0-13982	yiaA
+TU0-14364	mnmA
+TU00386	bolA
+TU0-5183	['usg', 'truA', 'dedA']
+TU0-13979	yiaD
+TU0-8819	narP
+TU0-12868	yagGH
+TU0-2741	['amiA', 'hemF']
+TU0-13275	yncH
+TU0-8538	yaaI
+TU0-14416	hchA
+TU00325	proBA
+TU0-5981	ugpBAECQ
+TU0-13913	gspCDEFGHIJKLMO
+TU0-8872	adrA
+TU0-12807	leuO
+TU0-13559	mqo
+TU0-13215	['ymjC', 'mpaA']
+TU0-3621	yeaGH
+TU0-14344	ligT
+TU0-8579	yhgE
+TU0-4961	gntP
+TU00369	ubiCA
+TU0-8804	gltS
+TU0-13958	rlmJ
+TU0-2502	topA
+TU0-12850	yafL
+TU0-8519	ryjA
+TU0-13258	ydcJ
+TU00307	nfrBA
+TU0-14395	['ileS', 'lspA', 'fkpB', 'ispH']
+TU0-13896	zapE
+TU0-5569	yggX
+TU0-12789	yaaJ
+TU0-8843	ldrA
+TU0-14323	yjhA
+TU0-13542	yeiH
+TU0-13195	rluB
+TU0-3403	ygaC
+TU0-4786	crr
+TU0-8562	ybeT
+TU0-8781	dacB
+TU00353	ruvAB
+TU0-2081	mfd
+TU0-13941	yrhB
+TU0-8502	['nsrR', 'rnr', 'rlmB', 'yjfI']
+TU0-12833	tilS
+TU00288	hyaABCDEF
+TU0-13240	ompN
+TU0-13879	yhbW
+TU0-14373	gspCDEFGHIJKLMO
+TU0-1190	['rrsH', 'ileV', 'alaV', 'rrlH', 'rrfH']
+TU0-5321	fadIJ
+TU0-14304	yeiI
+TU0-8827	marC
+TU0-13175	ldcA
+TU0-13523	yehLMPQ
+TU0-45291	tnaAB
+TU0-3123	['glsA', 'ybaT']
+TU0-8761	dcuD
+TU0-8546	yagJ
+TU0-1963	glcC
+TU00334	['rph', 'pyrE']
+TU0-8486	panD
+TU0-13923	yhfL
+TU00272	flgAMN
+TU0-12815	yadGH
+TU0-13863	yqjCDEK
+TU0-13223	zntB
+TU0-45150	mqsA
+TU0-14353	ogrK
+TU0-1064	fkpA
+TU0-5062	yjaB
+TU0-14286	['yqjA', 'mzrA']
+TU0-8811	iap
+TU0-13157	ycgX
+TU0-2621	sufABCDSE
+TU0-45273	['epd', 'pgk', 'fbaA']
+TU0-8529	thiI
+TU0-8744	yfjH
+TU00315	['pcnB', 'folK']
+TU0-1762	osmC
+TU0-13904	csrD
+TU0-8464	rplL
+TU0-12797	rihC
+TU00255	dadAX
+TU0-13206	sapABCDF
+TU0-13845	sibD
+TU0-14333	sraB
+TU0-44226	['nusA', 'infB']
+TU0-4905	gapA
+TU-8435	ahpF
+TU0-8791	emtA
+TU0-14253	['lsp', 'fkpB', 'ispH']
+TU0-2405	['mhpR', 'lacI']
+TU0-13140	ycfT
+TU0-8511	slyA
+TU0-45257	csgDEFG
+TU00299	minCDE
+TU0-8728	yfaH
+TU0-13888	ibaG
+TU0-1544	flgMN
+TU0-1201	gdhA
+TU0-8359	gapC_1C_2
+TU0-14314	truD
+TU00239	arsRBC
+TU0-13183	ychJ
+TU0-13828	ftsP
+TU0-4682	idnDOTR
+TU0-4421	nagE
+TU0-8769	aslA
+TU0-14233	yghO
+TU0-198694	mazEF
+TU0-13123	['ymdB', 'clsC']
+TU0-8494	purT
+TU0-45242	['hdeAB', 'yhiD']
+TU00280	glmUS
+TU0-14805	hemL
+TU0-13871	yhaBC
+TU0-8339	queE
+TU0-1181	['rrsA', 'ileT', 'alaT', 'rrlA', 'rrfA']
+TU00223	sdaA
+TU0-14295	ybbB
+TU0-13811	yghED
+TU0-13167	ymgGD
+TU0-44194	malY
+TU0-45281	cpxRA
+TU526	ilvEDA
+TU0-8753	yghU
+TU0-14217	prfC
+TU0-1822	cusRS
+TU0-13107	gfcBCD
+TU0-8477	cysS
+TU0-45227	['rrsD', 'ileU', 'alaU', 'rrlD', 'rrfD', 'thrV', 'rrfF']
+TU00263	['yadV', 'htrE']
+TU0-13511	yegX
+TU0-13854	higBA
+TU0-14783	nikABCDER
+TU0-4502	alsRBACE
+TU0-8302	pta
+TU0-1003	astCADBE
+TU00206	rbsDACBKR
+TU0-14269	['relA', 'mazEF']
+TU0-13792	['ygfB', 'pepP', 'ubiHI']
+TU0-13149	ymfJ
+TU0-42695	csgA
+TU0-45265	['appCBA', 'yccB']
+TU484	['pdxJ', 'acpS']
+TU0-8736	yfeN
+TU0-14200	yjiJ
+TU0-1601	['nanATEK', 'yhcH']
+TU0-13089	ycbJ
+TU0-8368	cobUST
+TU0-45212	clpB
+TU00247	caiTABCDE
+TU0-13492	yeeZ
+TU0-13836	ygiN
+TU0-14749	exuT
+TU0-44218	aroM
+TU0-8223	metR
+TU-8422	['essD', 'ybcS', 'rzpD']
+TU-8407	rne
+TU0-14243	insQ
+TU00190	marRAB
+TU0-13131	mdtH
+TU0-13776	hyuA
+TU0-4525	recAX
+TU0-42652	leuV
+TU0-14819	gpmA
+TU368	plaR
+TU0-8349	macB
+TU0-14182	yjgX
+TU00231	accBC
+TU0-13073	['ybjQ', 'amiD']
+TU0-13820	yghW
+TU0-45197	csiE
+TU0-44202	gnsA
+TU0-13473	yeeL
+TU0-14225	['radA', 'nadR']
+TU0-14715	murQP
+TU0-13115	efeU
+TU0-8101	pgl
+TU0-45234	osmY
+TU-8384	['bepA', 'yfgD']
+TU0-14794	greA
+TU00174	ihfA
+TU0-8330	zinT
+TU0-13759	yqeH
+TU00214	araBAD
+TU0-42604	fabI
+TU0-13802	tktA
+TU343	metY
+TU0-4287	['imp', 'surA', 'pdxA']
+TU0-14164	ytfL
+TU501	feaR
+TU0-13056	mcbA
+TU0-14208	yjiXA
+TU0-45181	adhE
+TU0-13099	yccFS
+TU0-13455	yedEF
+TU0-4522	gntR
+TU0-14683	creD
+TU0-13502	sibA
+TU0-7823	ompT
+TU0-14765	yfiRN
+TU00158	ndh
+TU0-8262	insK
+TU0-13741	csdAE
+TU00198	adhE
+TU0-42581	galET
+TU0-13784	ygfTS
+TU221	rpoH
+TU0-42674	mlaFEDCB
+TU0-14147	yjeM
+TU424	['hydN', 'hypF']
+TU0-13039	ybgS
+TU0-14191	yjhF
+TU0-45165	['rrsA', 'ileT', 'alaT', 'rrlA', 'rrfA']
+TU0-13081	ycaD
+TU0-13437	yebF
+TU0-45205	poxB
+TU0-14665	fre
+TU0-13484	yoeF
+TU0-7722	otsBA
+TU0-14738	yjeV
+TU00141	pck
+TU0-8150	msyB
+TU0-13724	ygbE
+TU-8393	['htrG', 'cca']
+TU0-42558	ssnA
+TU00182	gltBDF
+TU101	uxuAB
+TU0-13767	['insC4D4CD4', 'ygeON']
+TU0-14128	mdtNOP
+TU0-42626	sdiA
+TU0-13023	ybfF
+TU355	putA
+TU0-13420	mntP
+TU0-14172	bdcR
+TU0-14644	talA
+TU0-13064	['pdeI', 'dgcI']
+TU0-7401	agp
+TU0-45189	eno
+TU00125	tdcABCDEFG
+TU0-13464	yedS
+TU0-13705	ygaQ
+TU0-14696	rph
+TU0-42530	agrB
+TU0-8001	glnQ
+TU0-8726	yeiG
+TU00166	['entCEBA', 'ybdB']
+TU00511	['tyrTV', 'tpr']
+TU0-13749	ygdR
+TU0-14112	yjbFGH
+TU0-42593	ariR
+TU0-13005	ybeF
+TU27	eda
+TU0-13405	yeaO
+TU0-14156	bsmA
+TU0-14622	rne
+TU0-13047	ybhL
+TU0-7162	['rfaQGPSBIJYZ', 'waaU']
+TU0-45173	['ssrS', 'ygfA']
+TU00109	carAB
+TU0-13445	yecT
+TU0-13689	alpA
+TU0-14675	ydhYVWXUT
+TU0-42508	leuL
+TU0-7784	rstAB
+TU0-8709	ydhQ
+TU00150	exuT
+TU00495	['valUXY', 'lysV']
+TU0-13732	ygcW
+TU0-14089	yijE
+TU0-42569	serC
+TU0-12989	ybdK
+TU142	fixABCX
+TU0-13386	nadE
+TU0-14137	yjdIJ
+TU0-14576	cspE
+TU0-13031	abrB
+TU0-6941	['rhoL', 'rho']
+TU0-13429	yebV
+TU00092	fabA
+TU0-14652	rpoS
+TU0-13669	yfhL
+TU0-7581	polB
+TU0-42480	gapA
+TU00133	['srlAEBD', 'gutM', 'srlR', 'gutQ']
+TU0-8692	yciN
+TU0-13715	yqaBA
+TU00479	['ptsHI', 'crr']
+TU0-42543	nanA
+TU0-14068	yihUTS
+TU00519	proK
+TU0-12969	exoD
+TU0-14120	alr
+TU871	queA
+TU0-13013	hscC
+TU0-13370	rprA
+TU0-13413	['tsaB', 'yeaY']
+TU0-14550	pspBCDE
+TU0-14634	aspS
+TU0-6683	ptrA
+TU0-7262	moaBCDE
+TU00076	araE
+TU00117	bioBFCD
+TU0-13651	ndk
+TU0-13697	yfjV
+TU0-42460	['rybA', 'mntS']
+TU0-42516	ilvL
+TU0-8676	ycbC
+TU0-8718	yedA
+TU00463	ppiA
+TU00503	['argX', 'hisR', 'leuT', 'proM']
+TU0-14051	rmuC
+TU0-14101	sroH
+TU0-12951	hemH
+TU0-12997	rna
+TU793	torR
+TU0-13395	yeaC
+TU0-13354	mliC
+TU0-14613	iraP
+TU0-14528	['rrlB', 'rrfB']
+TU0-7021	['hcp', 'hcr']
+TU0-6631	tyrP
+TU00100	cydAB
+TU00060	pyrC
+TU0-13679	['yfiR', 'dgcN', 'yfiB']
+TU0-13634	eutHA
+TU0-42493	cspI
+TU0-4205	['yqjA', 'mzrA']
+TU0-8701	ydcK
+TU0-8657	yqhC
+TU00487	['rpoN', 'hpf', 'ptsN', 'yhbJ', 'npr']
+TU00445	clpA
+TU0-14076	kdgT
+TU0-14034	ppiC
+TU0-12979	ybcV
+TU0-12933	queC
+TU0-13378	nlpC
+TU701	proVWX
+TU0-14562	['mutL', 'miaA', 'hfq', 'hflXKC']
+TU0-13336	ynfD
+TU0-6843	nanCM
+TU0-14509	gcvP
+TU00084	rpoH
+TU0-6557	['pyrG', 'eno']
+TU0-13660	hcaT
+TU00044	narGHJI
+TU0-42470	recG
+TU0-13616	ypeC
+TU0-8684	comR
+TU0-41795	ydeNM
+TU00471	fliAZY
+TU0-8640	yniB
+TU0-14060	yihI
+TU00428	lrhA
+TU0-12961	ylbG
+TU0-14018	dgoRKADT
+TU841	cdd
+TU0-12913	iraP
+TU0-13362	ydhS
+TU601	['yceD', 'rpmF']
+TU0-14537	deoABD
+TU0-13320	ynfN
+TU0-6650	hisBHAFI
+TU0-14487	['rrsE', 'gltV', 'rrlE', 'rrfE']
+TU00068	tyrR
+TU0-6506	hisS
+TU0-13642	['yffB', 'dapE', 'ypfN']
+TU00028	glnLG
+TU0-42451	araFGH
+TU0-13600	intS
+TU0-8665	ytjC
+TU0-3941	ftsQ
+TU00453	endA
+TU0-8622	yjhD
+TU0-14043	yigGF
+TU00410	fimB
+TU0-12941	ylaC
+TU0-14002	dinD
+TU783	zraSR
+TU0-12892	yahDEFG
+TU0-13345	['ydgI', 'folM']
+TU542	xthA
+TU0-14518	dhaM
+TU0-13302	dgcF
+TU0-6583	agaSYBCDI
+TU0-14464	nagC
+TU00052	['phoA', 'psiF']
+TU0-6425	manA
+TU0-13625	['murQP', 'yfeW']
+TU00012	aroP
+TU0-4187	['fadD', 'sroD']
+TU0-13583	yfbV
+TU0-8648	yodD
+TU0-36431	['kdsC', 'lptCAB']
+TU00436	rpoD
+TU0-8605	yigE
+TU0-14026	cbrB
+TU00394	stpA
+TU0-12921	['nrdR', 'ribDE', 'nusB', 'thiL', 'pgpA']
+TU0-13987	yiaY
+TU67	xylAB
+TU0-12876	paoABCD
+TU0-13328	dicA
+TU0-14495	yacG
+TU0-6514	['serB', 'radA']
+TU00036	lacZYA
+TU0-13608	yfdE
+TU0-4146	['hlpA', 'lpxD', 'fabZ', 'lpxA']
+TU0-8631	ykgL
+TU00419	clpPX
+TU0-14010	nepI
+TU0-12902	frmRAB
+TU581	hlyE
+TU0-13311	ydfH
+TU0-14472	['yciSM', 'pyrF', 'yciH']
+TU0-6483	bcp
+TU00020	fhuACDB
+TU0-13591	['folC', 'dedD']
+TU0-3645	rutABCDEFG
+TU0-8613	yjfY
+TU00402	htpG
+TU0-13995	['secB', 'gpsA']
+TU0-12884	rclBC
+TU0-13293	ydeQ
+TU0-14451	['hcp', 'hcr']
+TU0-6403	dapB
+TU00004	argCBH
+TU0-13575	yfbL
+TU0-36420	phoU
+TU0-8596	yidL
+TU00001	aceBAK
+TU0-13572	elaA
+TU0-36417	glgAP
+TU0-8593	yibT
+TU00383	pflB
+TU0-13975	eptB
+TU0-12865	['insA2B2AB2', 'afuBC']
+TU0-13272	curA
+TU0-14413	eno
+TU0-5903	glnAZ
+TU0-8867	['yjjB', 'dnaTC', 'yjjA']
+TU0-13556	radD
+TU0-3561	asnW
+TU0-8576	yhbQ
+TU00366	['thrS', 'infC']
+TU0-13955	yhiL
+TU0-12847	yafJ
+TU0-13255	hokB
+TU0-14392	rydC
+TU0-5564	['yggX', 'mltC', 'nupG']
+TU0-8840	ivy
+TU0-13538	preTA
+TU0-3364	['rrsB', 'gltT', 'rrlB', 'rrfB']
+TU0-8559	ybdL
+TU00349	['rpsMKD', 'rpoA', 'rplQ']
+TU0-13936	yhhW
+TU0-1283	fur
+TU0-13237	pinR
+TU0-14370	aspT
+TU0-5221	['pdxA', 'rsmA']
+TU0-8824	micC
+TU0-13519	metG
+TU0-3103	trxA
+TU0-8543	yafS
+TU00331	rfbBDACX
+TU0-13919	yheSTU
+TU0-12811	['ppdD', 'hofBC']
+TU0-13220	ynaJ
+TU0-14350	mviM
+TU0-12873	yagN
+TU0-5021	uxaCA
+TU0-13281	yddE
+TU0-8809	helD
+TU0-14423	ryfD
+TU0-2562	exbD
+TU0-6042	entS
+TU0-8526	sseA
+TU0-921	yceA
+TU00312	otsBA
+TU0-13564	['rpnE', 'ypaA']
+TU0-13901	aaeXAB
+TU0-36402	fhuF
+TU0-12794	['mokC', 'hokC']
+TU0-8585	yhhS
+TU0-13203	yciW
+TU00374	xylFGHR
+TU0-14328	secG
+TU0-13966	yhjC
+TU0-4901	gadEF
+TU0-12855	['ykfJ', 'prfH']
+TU0-8788	dsrA
+TU0-13264	sutR
+TU0-2302	metNIQ
+TU0-14403	cyaA
+TU0-8508	ryeA
+TU0-5682	['gadEF', 'mdtEF']
+TU00295	['lgt', 'thyA']
+TU0-8848	lit
+TU0-13885	ispB
+TU0-13548	yeiQ
+TU0-1195	['dnaN', 'recF']
+TU0-3425	bacA
+TU0-14311	frwD
+TU0-8567	ybiA
+TU0-13180	ychS
+TU00358	['sfsA', 'dksA']
+TU0-4624	nfsB
+TU0-13946	yhhT
+TU0-8766	ais
+TU0-12838	gmhB
+TU0-198690	stfZ
+TU0-13246	insI2
+TU0-8491	pitA
+TU0-14378	cynTS
+TU00277	['rlmE', 'ftsH']
+TU0-5481	['ynfEFGH', 'dmsD']
+TU0-13868	yhaKL
+TU0-8832	['insH', '10']
+TU0-45160	['yrbN', 'deaD']
+TU0-13528	yohO
+TU0-1142	ptsG
+TU0-3162	cydAB
+TU0-14292	lptAB
+TU0-8551	yaiY
+TU0-13163	pdeG
+TU00339	rpmBG
+TU0-45278	['rpoE', 'rseABC']
+TU0-13928	igaA
+TU0-8749	ygfZ
+TU0-1282	['fldA', 'uof', 'fur']
+TU0-1803	pspF
+TU0-13229	ydaGF
+TU0-8474	rpsO
+TU0-14359	rcsDB
+TU00260	dnaKJ
+TU0-5162	ulaABCDEF
+TU0-13851	ygjI
+TU0-8816	norR
+TU0-4482	mngAB
+TU0-2706	metJ
+TU0-0	cysG
+TU0-8535	uspC
+TU0-14262	['asnC', 'mioC']
+TU00322	potFGHI
+TU0-13145	['rluE', 'nudJ']
+TU0-13909	mscL
+TU0-45262	['yciSM', 'pyrF', 'yciH']
+TU0-12804	yabI
+TU0-8733	smrB
+TU0-13212	['ycjMNOPQRSTUV', 'ymjB', 'ompG']
+TU0-1549	yhjH
+TU0-14341	yraM
+TU0-8365	bcsABZC
+TU0-4928	gntT
+TU00244	baeSR
+TU0-8799	fimZ
+TU0-13833	ygiV
+TU0-2443	treR
+TU0-44214	btuE
+TU0-8516	sraG
+TU-8417	yhjJ
+TU00304	mreBCD
+TU0-1424	ftsZ
+TU0-13893	yhcF
+TU0-13128	dinI
+TU0-12786	yjtD
+TU0-45247	eptB
+TU0-14320	yfhG
+TU0-14816	['pgk', 'fbaA']
+TU0-13190	yciCB
+TU0-8345	['hypBCDE', 'fhlA']
+TU0-4761	csrB
+TU00228	gntKU
+TU0-8778	crcB
+TU0-13817	yghSR
+TU0-2021	psiE
+TU0-44199	frlR
+TU0-8499	rfaH
+TU0-14221	yjjI
+TU00285	hisLGDCBHAFI
+TU0-13112	torS
+TU0-13876	yraR
+TU0-45231	gadBC
+TU0-1187	['rrsG', 'gltW', 'rrlG', 'rrfG']
+TU0-13516	yehDCBA
+TU0-14301	yadN
+TU0-14791	mqsRA
+TU0-13172	dsbB
+TU0-8326	yoeA
+TU0-45287	C0293
+TU00211	soxS
+TU0-8758	ygiZ
+TU0-13799	argO
+TU0-194009	narUZYWV
+TU0-42700	glpQ
+TU0-8482	ydiU
+TU490	hupB
+TU00268	['fdoGHI', 'fdhE']
+TU0-14205	yjiS
+TU0-13859	alx
+TU0-13095	['elfDCG', 'ycbUVF']
+TU0-45145	hicAB
+TU0-45217	['dinB', 'yafNOP']
+TU0-1061	['srkA', 'dsbA']
+TU0-13499	['wcaCDEF', 'gmd', 'fcl', 'gmm', 'wcaI', 'cpsBG', 'wcaJ', 'wzxC']
+TU0-14276	modABC
+TU0-14762	['ycgZ', 'ymgA', 'ariR', 'ymgC']
+TU0-13154	mcrA
+TU0-8244	yebB
+TU0-45270	eno
+TU00195	pncB
+TU0-8741	yfiE
+TU0-13781	['ygfK', 'ssnA']
+TU0-1741	ribA
+TU0-42666	ymdB
+TU0-8455	['ybgIJKL', 'nei']
+TU403	glpR
+TU00252	cobUST
+TU0-14188	yjhV
+TU0-13842	ygiL
+TU0-13078	trxB
+TU0-44223	sokX
+TU0-45202	rhaSR
+TU-8431	rnlB
+TU0-13480	insC3D3CD3
+TU0-1425	ftsZ
+TU0-14730	uvrB
+TU0-13136	['hinT', 'ycfL', 'lpoB', 'thiK', 'nagZ', 'ycfP']
+TU0-8147	ansP
+TU0-45254	aceEF
+TU-8390	infA
+TU0-1501	flxA
+TU00179	leuLABCD
+TU0-8354	bcsBZ
+TU0-13764	ygeI
+TU00236	['yjeFE', 'amiB', 'mutL', 'miaA', 'hfq', 'hflXKC']
+TU0-42616	thyA
+TU0-13825	yqhG
+TU348	arcA
+TU0-44207	paaJ
+TU0-14169	ridA
+TU0-1423	ftsZ
+TU0-13061	ybiV
+TU0-13120	ycdXY
+TU0-45186	pqiABC
+TU0-45239	pfkA
+TU0-13461	yodC
+TU0-14801	rdcAB
+TU0-14692	pstS
+TU0-8336	fbp
+TU0-7901	mglAC
+TU00220	trpR
+TU00163	['fepA', 'entD']
+TU0-13808	yggM
+TU0-13746	['rppH', 'ptsP']
+TU0-4404	puuP
+TU0-42589	relA
+TU523	mazEFG
+TU261	['smtA', 'mukFEB']
+TU0-14213	yjjP
+TU0-14153	yjfIJ
+TU0-13104	tusE
+TU0-13044	ybhJ
+TU0-45224	csgBAC
+TU0-45170	glk
+TU0-13507	insE5EF5F5
+TU0-13442	yecDE
+TU0-14772	rraB
+TU0-14672	groL
+TU0-8267	cho
+TU0-7746	yfdX
+TU00203	prs
+TU00147	nupC
+TU0-13789	yqfA
+TU0-13729	ygcRQ
+TU0-42689	yihUTS
+TU0-42565	yejG
+TU462	dadAX
+TU122	putP
+TU0-14196	nanS
+TU0-14133	rdcAB
+TU0-13086	ycaL
+TU0-13028	ybfQ
+TU0-4521	gntR
+TU0-13426	msrC
+TU0-13489	yeeED
+TU0-14649	rpoS
+TU0-14744	rfaYZ
+TU0-7521	sthA
+TU0-8202	yggE
+TU00130	uhpT
+TU-8399	yecR
+TU0-13712	ygaY
+TU00187	malI
+TU0-42537	acpP
+TU0-13773	ygeW
+TU00516	glyU
+TU0-42640	['rseD', 'rpoE', 'rseABC']
+TU0-14117	yjbLM
+TU362	['ybgA', 'phr']
+TU0-13010	['leuS', 'lptE', 'holA', 'nadD', 'cobC']
+TU0-14177	yjgR
+TU0-13410	dmlA
+TU0-13070	rybB
+TU0-14631	pykF
+TU0-45194	arrS
+TU0-7201	hcaR
+TU0-13470	yodB
+TU00114	atoDAEB
+TU0-14702	['tolC', 'ygiBC']
+TU0-13694	yfjPQ
+TU0-8082	['epd', 'pgk', 'fbaA']
+TU0-42513	ivbL
+TU-8381	spy
+TU0-8715	yebQ
+TU00171	gcvA
+TU00500	argW
+TU0-13756	kduI
+TU0-14094	eptC
+TU0-42600	panD
+TU0-12994	ybdO
+TU305	['ychQA', 'kdsA']
+TU0-13392	ydjE
+TU0-14161	qorB
+TU0-14610	yafZ
+TU0-13052	ybiJ
+TU0-7	tsr
+TU0-45178	galE
+TU00097	['appCBA', 'yccB']
+TU0-13451	pgsA
+TU0-13675	['rluD', 'pgeF']
+TU0-14680	gpt
+TU0-42486	thrL
+TU0-7806	hemL
+TU0-8698	ydbJ
+TU00155	proP
+TU00484	pyrLBI
+TU0-13738	queF
+TU0-14073	fdhD
+TU0-42577	grcA
+TU0-12975	['ybcN', 'ninE', 'ybcO', 'rusA', 'ylcG']
+TU182	fimAICDFGH
+TU876	['dam', 'rpe', 'gph', 'trpS']
+TU0-14143	epmB
+TU0-13375	ppsR
+TU0-13036	lysQ
+TU0-14558	['casDE', 'ygbTF']
+TU0-13434	['yobB', 'exoX']
+TU0-6821	cstA
+TU0-14661	['yheO', 'tusDCB']
+TU00081	ilvIH
+TU0-7662	yhhY
+TU0-13657	trmJ
+TU00138	aldB
+TU0-42466	sdiA
+TU0-13721	ygbJK
+TU0-8681	yccX
+TU0-42549	feaR
+TU00468	['dcuB', 'fumB']
+TU00524	['sdhCDAB', 'sucABCD', 'sdhX']
+TU0-14056	['pepQ', 'yigZ', 'trkH', 'hemG']
+TU0-14125	yjcF
+TU0-12957	fetAB
+TU0-13018	miaB
+TU801	['yjeFE', 'amiB', 'mutL', 'miaA', 'hfq', 'hflXKC']
+TU0-13418	pdeD
+TU0-13359	mepH
+TU0-14640	glk
+TU0-14533	['rrlA', 'rrfA']
+TU0-7341	rpiA
+TU0-6647	dnaQ
+TU00122	glgCAP
+TU00065	ssb
+TU0-13702	ypjB
+TU0-13639	nudK
+TU0-42525	frr
+TU0-4242	yghF
+TU0-8723	yegH
+TU0-8662	ytfA
+TU00508	serW
+TU00450	tsx
+TU0-14107	yjbB
+TU0-14040	yifK
+TU0-13002	ybeM
+TU0-12938	ffs
+TU0-13402	dgcJ
+TU743	['rpmH', 'rnpA']
+TU0-14618	['ltaE', 'ybjT']
+TU0-13342	ydgD
+TU0-7081	galP
+TU0-14514	csgC
+TU00106	gltA
+TU0-6569	ansB
+TU0-13685	['ratA', 'yfjF']
+TU00049	ompC
+TU0-42501	bluF
+TU0-13622	cysZ
+TU0-8706	ydeJ
+TU0-4184	lpxD
+TU00492	['lysT', 'valT', 'lysW']
+TU0-8645	yoaH
+TU0-14082	yiiR
+TU00433	uspA
+TU0-12985	ybdG
+TU0-14022	mdtL
+TU0-13383	hxpB
+TU0-12918	['brnQ', 'proY']
+TU0-14571	['yjjQ', 'bglJ']
+TU65	nac
+TU0-6885	['yhfG', 'fic', 'pabA']
+TU0-13325	relBE
+TU00089	glnB
+TU0-14492	dcd
+TU0-13666	glmY
+TU0-6511	rep
+TU0-42477	leuO
+TU00033	ilvY
+TU0-8689	ychH
+TU0-13605	yfdRST
+TU00476	ompC
+TU0-4021	pdeR
+TU0-14065	yihPO
+TU0-8628	yjjN
+TU0-12966	sfmA
+TU00416	gltA
+TU866	phoH
+TU0-14007	selC
+TU0-13367	rydB
+TU0-12897	yahM
+TU0-14547	alsBACE
+TU562	pqiABC
+TU0-6657	rplT
+TU0-13307	mgtS
+TU00073	alkB
+TU0-14469	ygbF
+TU0-13648	yfgHI
+TU0-6444	pgi
+TU0-42457	csrA
+TU00017	deoCABD
+TU0-8672	ybjM
+TU0-13588	yfcG
+TU00459	emrRAB
+TU0-36440	plsB
+TU0-14048	rhtC
+TU0-8610	yjeH
+TU0-12946	ybaN
+TU00399	yjaZ
+TU790	['mlc', 'ynfK']
+TU0-13992	yibIH
+TU0-13351	blr
+TU0-12881	ykgMO
+TU0-14524	['rrlH', 'rrfH']
+TU0-13290	yddAB
+TU0-6626	['pheMST', 'ihfA']
+TU0-14445	['ftsLI', 'murEF', 'mraY', 'murD', 'ftsW', 'murGC', 'ddlB', 'ftsQAZ', 'lpxC']
+TU00057	purL
+TU0-6362	ytfJ
+TU0-13630	yffMN
+TU0-14433	gadXW
+TU0-4201	['hemA', 'prfA', 'prmC']
+TU0-6281	['btuB', 'murI']
+TU0-8653	yqgC
+TU0-963	mpl
+TU00442	rpoS
+TU0-13569	arnBCADTEF
+TU0-14031	['ravA', 'viaA']
+TU0-36412	['pcnB', 'folk']
+TU0-12928	tig
+TU0-8590	wecH
+TU685	nikR
+TU00380	pflB
+TU0-13333	['rspA', 'rspB']
+TU0-13972	bcsEFG
+TU0-14502	fucR
+TU0-6553	lysC
+TU0-13269	ortT
+TU00041	metA
+TU0-14408	pdeL
+TU0-13613	['pyrSR', 'ypdC']
+TU0-5843	menBCE
+TU0-41739	mpaA
+TU0-8863	aslB
+TU0-8637	yncD
+TU0-13553	yejG
+TU00425	icd
+TU0-3481	sixA
+TU0-14015	yidKJ
+TU0-8573	yhaJ
+TU0-12908	hemB
+TU00363	['umpG', 'pcm']
+TU587	['glnK', 'amtB']
+TU0-13951	yhhI
+TU0-13316	pinQ
+TU0-12843	dnaQ
+TU0-14479	['hslR', 'hslO']
+TU0-13252	ydcF
+TU0-6503	gcvR
+TU0-14388	mreB
+TU00025	galETKM
+TU0-5543	['rpmBG', 'mutM']
+TU0-13597	yfcZ
+TU0-8837	intD
+TU0-3862	nhaAR
+TU0-13534	dusC
+TU0-8619	yjgM
+TU0-3304	infC
+TU00407	ibpAB
+TU0-8556	ybaK
+TU0-14	gor
+TU00346	['rpsF', 'priB', 'rpsR', 'rplI']
+TU0-12889	pdeL
+TU0-13933	rpnA
+TU0-13299	lsrRK
+TU0-12825	yaeH
+TU0-14459	potFGHI
+TU0-13234	['ynaK', 'ydaY']
+TU0-6409	gltX
+TU0-14366	ybgTE
+TU00009	aroG
+TU0-5186	['rsmA', 'apaGH']
+TU0-13580	yfbR
+TU0-8821	mrr
+TU0-36426	tufA
+TU0-3	cpxRA
+TU0-8601	yieG
+TU0-8540	yadD
+TU00391	otsA
+TU00327	rcsB
+TU0-13984	avtA
+TU0-13915	['yheO', 'tusDCB']
+TU00388	osmB
+TU0-12809	lpxC
+TU0-13981	ysaB
+TU0-13217	pgrR
+TU0-12870	insA3B3AB3
+TU0-14346	galF
+TU0-13277	yncI
+TU0-5	['plsX', 'fabHDG']
+TU0-14420	symR
+TU0-8806	gsk
+TU0-6	cysG
+TU0-2504	topA
+TU0-8874	pepD
+TU0-8522	chiX
+TU0-13561	ftp
+TU00309	['nlpD', 'rpoS']
+TU0-3623	ddpXABCDF
+TU0-13898	degQS
+TU0-8582	yhhA
+TU0-12791	satP
+TU00371	uhpABC
+TU0-14325	ymbA
+TU0-13962	yhiD
+TU0-13198	['ymiA', 'yciX']
+TU0-12852	lafU
+TU0-4822	csrC
+TU0-13260	ydcH
+TU0-8783	dcp
+TU0-14398	crp
+TU0-2101	['ybjC', 'nfsA', 'rimK', 'ybjN']
+TU0-5601	['yicR', 'rpmBG']
+TU0-8504	ribC
+TU0-8845	ldrC
+TU00291	['ribF', 'ileS', 'lspA', 'fkpB', 'ispH']
+TU0-13545	psuT
+TU0-13881	nlpI
+TU0-3422	['ybaB', 'recR']
+TU0-1192	['rrsD', 'ileU', 'alaU', 'rrlD', 'rrfD', 'thrV', 'rrfF']
+TU0-8564	ybhA
+TU0-14306	rlmM
+TU00355	selAB
+TU0-13177	ycgY
+TU0-13943	yhhN
+TU0-4562	['dcuB', 'fumB']
+TU0-12835	['yaeQ', 'arfB', 'nlpE']
+TU0-8763	omrA
+TU0-13242	['ydbH', 'ynbE', 'ydbL']
+TU0-198686	asflhD
+TU0-14375	gspAB
+TU0-8488	pepE
+TU0-5341	['osmF', 'yehYXW']
+TU00274	fliDST
+TU0-8829	['insA', '7']
+TU0-13865	yqjG
+TU0-13525	yehS
+TU0-45156	rpmE
+TU0-3141	chiA
+TU0-1122	dmsABC
+TU0-8548	yahN
+TU0-14288	mtr
+TU00336	['rplM', 'rpsI']
+TU0-13160	ycgZ
+TU0-13925	yhfZY
+TU0-45275	['rrsB', 'gltT', 'rrlB', 'rrfB']
+TU0-12817	yadE
+TU0-8746	ygbI
+TU0-13226	['recET', 'ralR', 'rcbA', 'xisR', 'intR']
+TU0-1782	ychF
+TU0-14355	rsmB
+TU0-8471	pgaABCD
+TU0-5082	uidR
+TU00257	['dcm', 'vsr']
+TU0-8813	ompW
+TU0-13847	['ygiF', 'glnE']
+TU0-2649	narU
+TU0-4444	['seqA', 'pgm']
+TU0-8532	tqsA
+TU-8439	bglA
+TU00319	phoPQ
+TU0-14255	['rpmI', 'rplT']
+TU0-13906	yhdU
+TU0-13142	['nagK', 'cobB']
+TU0-12800	kefFC
+TU0-45259	pqiABC
+TU0-13209	puuAP
+TU0-8730	nudI
+TU0-14336	['ispG', 'sroE']
+TU0-1546	aer
+TU0-4907	gapA
+TU0-8361	['pcnB', 'folK']
+TU0-8793	fadE
+TU00241	ascFB
+TU0-2422	mgtA
+TU0-13830	parC
+TU0-8513	ybjX
+TU0-44211	xapB
+TU00301	modABC
+TU0-14237	ypfM
+TU0-13890	['elbB', 'mtgA']
+TU0-13125	mdtG
+TU0-1241	sugE
+TU0-45244	pykF
+TU0-14316	yhjR
+TU0-14812	rnlB
+TU0-13185	ychE
+TU0-8341	rtcR
+TU0-4702	lacZYA
+TU00225	['kbl', 'tdh']
+TU0-8773	bisC
+TU0-13814	pppA
+TU0-198696	sfmAC
+TU0-44196	allB
+TU0-8496	rdlA
+TU0-14219	yjjUV
+TU00282	['hdeAB', 'yhiD']
+TU0-13109	insA4AB4B4
+TU0-13873	yraH
+TU0-45229	ompF
+TU0-1183	['rrsC', 'gltU', 'rrlC', 'rrfC']
+TU0-13513	rcnR
+TU0-14298	macAB
+TU0-14785	flhDC
+TU0-13169	ycgL
+TU0-8323	['lolB', 'ispE', 'prs']
+TU0-45283	osmE
+TU00208	rhaT
+TU0-8755	ygiD
+TU0-13794	['ssrS', 'ygfA']
+TU0-1881	iscRSUA
+TU0-42697	fucO
+TU0-8479	appY
+TU487	hupB
+TU00265	exbBD
+TU0-14202	yjiML
+TU0-13856	ygjP
+TU0-13091	['mepK', 'gloC']
+TU0-45142	pdeL
+TU0-45214	pstSCA
+TU0-1021	pyrH
+TU0-13494	wzzB
+TU0-14273	rne
+TU0-14751	dpiBA
+TU0-13151	['ymfTLMNR', 'beeE', 'jayE', 'ymfQ', 'ycfK', 'tfaP']
+TU0-8241	['yebC', 'ruvC']
+TU0-45267	['dnaN', 'recF']
+TU-8411	fliFGHIJK
+TU0-8738	yfgF
+TU00192	glyA
+TU0-1681	sodB
+TU0-13778	yqeB
+TU0-8375	ybfHG
+TU0-42660	serW
+TU00249	chaBC
+TU4	paaZ
+TU0-13838	['tolC', 'ygiBC']
+TU0-14184	yjhE
+TU0-44220	nei
+TU0-13075	['poxB', 'ltaE', 'ybjT']
+TU-8427	narWV
+TU0-45199	['xerD', 'dsbC', 'recJ']
+TU0-14245	ymdF
+TU0-13477	yeeO
+TU0-13133	yceQ
+TU0-14717	sibC
+TU0-45251	cfa
+TU0-8143	['talA', 'tktB']
+TU0-14820	eno
+TU-8387	qseBC
+TU0-8351	bssS
+TU00176	dps
+TU00233	acrAB
+TU0-13761	ygeF
+TU0-13822	yghB
+TU0-42608	['yqaE', 'kbp']
+TU0-44204	mngB
+TU345	arcA
+TU0-14227	qorA
+TU0-14166	['ytfQRT', 'yjfF']
+TU0-13117	insE4F4EF4
+TU0-13058	rhtA
+TU0-45236	pfkA
+TU0-45183	araFGH
+TU0-14797	mgrR
+TU0-13457	yedL
+TU0-8332	ydhP
+TU0-14688	['yliM', 'ompX']
+TU00216	glpTQ
+TU0-7844	rpsT
+TU0-13805	['rsmE', 'gshB']
+TU00160	aspA
+TU0-4343	['secMA', 'mutT']
+TU0-13743	mltA
+TU503	cfa
+TU0-42583	galETK
+TU0-14210	lgoT
+TU243	ampC
+TU0-13101	yccT
+TU0-14150	rsgA
+TU0-45221	csrA
+TU0-13041	acrZ
+TU0-13504	yegP
+TU0-45167	murR
+TU0-14767	azuCR
+TU0-13439	yebK
+TU0-8264	symE
+TU0-14669	['menA', 'rraA']
+TU00200	nhaAR
+TU0-7743	ydeO
+TU0-13786	idi
+TU00143	cynR
+TU0-42684	argH
+TU0-13726	cas3
+TU442	['fabDG', 'acpP']
+TU0-42560	degQ
+TU0-14193	sgcXBCQAER
+TU103	putP
+TU0-13083	pflA
+TU0-14130	yjdP
+TU0-45207	proVWX
+TU0-13025	ybfA
+TU0-13486	yeeA
+TU0-13422	['yobF', 'cspC']
+TU0-14740	pepA
+TU0-14646	yfgM
+TU0-8181	pfkB
+TU0-7441	galU
+TU-8396	dolP
+TU00127	ebgAC
+TU00184	livKHMGF
+TU0-13709	yqaE
+TU0-13769	ygeQ
+TU0-42533	['cbpA', 'cbpM']
+TU0-42630	sdsN
+TU00513	serU
+TU358	cydAB
+TU0-14114	yjbI
+TU0-14174	yjgL
+TU0-13007	ybeD
+TU0-13066	yliI
+TU0-13407	['yeaR', 'yoaG']
+TU0-45191	aidB
+TU0-14627	trg
+TU0-13467	hprRS
+TU0-7164	waaA
+TU0-14698	mdtEF
+TU00111	argD
+TU0-8044	gatR_2
+TU0-13691	yfjJ
+TU00168	mglBAC
+TU0-42510	trpL
+TU0-13751	['aas', 'lplT']
+TU0-8712	yeaL
+TU0-42595	metG
+TU00497	asnT
+TU3	trpCBA
+TU0-14091	['ptsA', 'fsaB', 'gldA']
+TU0-14158	fklB
+TU0-12991	ybdD
+TU0-13049	['ybhP', 'clsB', 'ybhN']
+TU0-13389	ynjE
+TU0-45175	pykA
+TU0-14608	acnB
+TU0-13447	yecJ
+TU0-6981	cspI
+TU0-14677	artPIQM
+TU00094	purA
+TU0-7803	slyB
+TU0-13672	pssA
+TU00152	fdhF
+TU0-42482	fumC
+TU0-13735	rlmD
+TU0-8695	ycjW
+TU0-42572	ralA
+TU00481	['ptsHI', 'crr']
+TU162	['ompR', 'envZ']
+TU0-14070	['yihXY', 'dtd', 'fabY']
+TU0-14140	['dsbD', 'yjdC']
+TU0-12971	insE3EF3F3
+TU0-13033	ybgD
+TU873	['aroKB', 'damX', 'dam', 'rpe', 'gph', 'trpS']
+TU0-13431	sdsR
+TU0-13372	ydiM
+TU0-14654	['pyrG', 'eno']
+TU0-14552	phnLMNOP
+TU0-7602	allS
+TU0-6686	uvrYC
+TU00135	fucAO
+TU00078	cysJIH
+TU0-13718	pncC
+TU0-13654	ryfA
+TU0-42545	ghoST
+TU0-42462	ddpXABCDF
+TU00521	leuQPV
+TU0-8678	ycbX
+TU0-14122	yjbQR
+TU00465	ppiA
+TU0-13015	insH3
+TU0-14053	tatD
+TU0-13415	yoaB
+TU0-12953	fsr
+TU0-14636	flu
+TU795	acnA
+TU0-7282	smf
+TU0-13356	sodC
+TU00119	crp
+TU0-14530	['rrlE', 'rrfE']
+TU0-13699	['yfjXY', 'ypjJ', 'yfjZ', 'ypjF']
+TU0-6635	atpBEFHAGDC
+TU0-42518	rhoL
+TU00062	recA
+TU0-8720	yedP
+TU0-13636	eutSPQTDM
+TU00505	glyVXY
+TU0-4221	bamD
+TU0-14104	yjaG
+TU0-8659	yraL
+TU0-12999	citCDEFXG
+TU00447	clpA
+TU0-13399	yeaE
+TU0-14036	gpp
+TU0-14615	acrB
+TU0-12935	cof
+TU0-7043	uvrD
+TU704	proVWX
+TU00103	['sucABCD', 'sdhX']
+TU0-13338	ynfK
+TU0-13681	ypjD
+TU0-14511	cysH
+TU0-42497	['dksA', 'gluQ']
+TU0-6562	proS
+TU0-8703	yddH
+TU00046	['nirBDC', 'cysG']
+TU00489	aspV
+TU0-13618	pdeA
+TU0-14078	fieF
+TU0-4181	rfaDFCL
+TU0-12981	nohD
+TU0-8642	ynjH
+TU0-13380	yniD
+TU00430	trmA
+TU0-14565	['miaA', 'hfq', 'hflXKC']
+TU0-1402	yihG
+TU0-6881	ilvIH
+TU0-12915	ppnP
+TU00086	phoE
+TU61	rtcBA
+TU0-13662	yphCB
+TU0-13322	ydfUT
+TU0-42472	patZ
+TU0-14489	['xerD', 'dsbC', 'recJ']
+TU0-8686	ycgB
+TU0-6508	lacI
+TU00473	glnB
+TU00030	glpABC
+TU0-14062	yihLM
+TU0-13602	tfaS
+TU0-12963	['ppiB', 'lpxH']
+TU0-3982	csiE
+TU862	rihB
+TU0-8624	yjiC
+TU0-13364	ydhYVW
+TU00412	fimB
+TU0-14540	rutR
+TU0-14004	gmk
+TU0-6652	umpH
+TU0-12894	yahIJ
+TU00070	uvrB
+TU544	tpx
+TU0-13644	['ypfJ', 'tmcA']
+TU0-13304	sad
+TU0-42454	appY
+TU0-14466	['ribE', 'nusB', 'thiL', 'pgpA']
+TU0-8667	zur
+TU0-6441	alaS
+TU00455	corA
+TU00014	cirA
+TU0-14045	yigI
+TU0-13585	yfcD
+TU0-12943	['tomB', 'hha']
+TU0-36433	lptAB
+TU787	rsd
+TU0-8607	yiiU
+TU0-13348	ydgA
+TU00396	treA
+TU0-14520	ubiX
+TU0-13989	['rhsA', 'yibA']
+TU0-6622	ppiD
+TU0-12878	ecpBCDE
+TU00054	['hflD', 'purB']
+TU0-13287	maeA
+TU0-13627	eutBCLKR
+TU0-13284	yddG
+TU0-41901	sdiA
+TU0-14425	sroA
+TU0-8650	ypdI
+TU0-6184	gcvB
+TU00438	rpoD
+TU0-941	['mraZW', 'ftsLI', 'murEF', 'mraY', 'murD', 'ftsW', 'murGC', 'ddlB', 'ftsQAZ', 'lpxC']
+TU0-14028	['bglH', 'yieLK']
+TU0-13566	['yfaX', 'rhmD']
+TU0-12925	yajR
+TU0-36404	cbrBC
+TU681	hmp
+TU0-8587	yhiN
+TU0-13330	dicF
+TU00377	['focA', 'pflB']
+TU0-14499	pspE
+TU0-13968	yhjE
+TU0-6550	gltX
+TU0-12859	['yafY', 'ykfBF', 'yafX', 'ykfGH', 'yafW', 'ykfI']
+TU00038	malEFGH
+TU0-13266	hicAB
+TU0-13610	oxc
+TU0-14405	hypF
+TU0-41656	yceI
+TU0-5761	gadY
+TU0-8633	gstB
+TU0-8855	['rplT', 'pheM']
+TU00421	clpB
+TU0-13550	mepS
+TU0-14012	adeQ
+TU0-3463	['sdsR', 'pphA']
+TU0-12904	insC1CD1D1
+TU0-8569	ybiP
+TU583	rnb
+TU00360	['speF', 'potE']
+TU0-13313	ydfI
+TU0-13948	rhsB
+TU0-14474	['holC', 'valS']
+TU0-12840	yafDE
+TU0-6485	cdh
+TU0-13249	ydbD
+TU00022	fnr
+TU0-14385	insJ
+TU0-13593	['prmB', 'aroC', 'mepA', 'yfcA', 'epmC', 'yfcL']
+TU0-55017	['ychJ', 'purU']
+TU0-3723	['acs', 'yjcHG']
+TU0-8834	['insH', '5']
+TU0-8615	yjgA
+TU0-13530	yohC
+TU00404	['yadV', 'htrE']
+TU0-3202	fldB
+TU0-13997	yibN
+TU0-8553	ybaZ
+TU0-12886	rclR
+TU00342	['rpoE', 'rseABC']
+TU0-13295	yneL
+TU0-13930	hslO
+TU0-14454	['yiaKLMNO', 'lyx', 'sgbHUE']
+TU0-12821	clcA
+TU0-6405	valS
+TU0-13231	['ydaSTUVW', 'rzpR']
+TU00006	argI
+TU0-14363	['insH', '2']
+TU0-13577	yfbO
+TU0-5182	['pdxB', 'usg', 'truA', 'dedA']
+TU0-36423	ssrS
+TU0-8818	nhoA
+TU0-8598	yidR
+TU0-2708	metJ
+TU0-36419	['pstB', 'phoU']
+TU0-8537	mlaA
+TU0-8595	yidI
+TU00324	['prfB', 'lysS']
+TU00385	ackA
+TU0-13911	['yhdN', 'zntR']
+TU0-13978	['tag', 'yiaC']
+TU0-12806	['sgrST', 'setA']
+TU0-12867	yagEF
+TU0-13214	ycjXF
+TU0-13274	yncG
+TU0-14343	diaA
+TU0-14415	hisJQMP
+TU0-4931	lon
+TU0-5964	serC
+TU0-8802	ggt
+TU0-8869	['yjjB', 'dnaTC']
+TU0-2501	topA
+TU0-13558	yejLM
+TU0-8518	glmZ
+TU0-3602	prpBCDE
+TU00306	narZYWV
+TU0-8578	yhdH
+TU0-13895	nanR
+TU00368	ttdABT
+TU0-12788	yaaA
+TU0-13957	['prlC', 'yhiQ']
+TU0-14322	holC
+TU0-12849	['dinJ', 'yafQ']
+TU0-13194	yciVOQ
+TU0-13257	sokB
+TU0-4783	nrdDG
+TU0-14394	['ileS', 'lspA', 'fkpB', 'ispH']
+TU0-8780	cspH
+TU0-5568	['mutY', 'yggX', 'mltC']
+TU0-2042	gcd
+TU0-8842	kptA
+TU0-8501	rhtB
+TU0-13541	yeiE
+TU00287	hslVU
+TU0-3401	ryhB
+TU0-13878	ubiUV
+TU0-8561	ybeQ
+TU0-1189	['rrsH', 'ileV', 'alaV', 'rrlH', 'rrfH']
+TU00352	['rpsU', 'dnaG', 'rpoD']
+TU0-14303	yeiL
+TU0-13940	['yhhZ', 'yrhA', 'insA6AB6B6']
+TU0-13174	cvrA
+TU0-12832	yaeR
+TU0-45289	hemF
+TU0-13239	uspF
+TU0-8760	abgR
+TU0-14372	aspU
+TU0-1962	glcDEFGBA
+TU0-5261	ccmABCDEFGH
+TU0-8485	oxyS
+TU0-8826	mdoC
+TU00270	['fes', 'ybdZ', 'entF', 'fepE']
+TU0-13522	yehK
+TU0-13861	ygjV
+TU0-3122	copA
+TU0-45147	oppBCDF
+TU0-8545	yafV
+TU0-1063	fkpA
+TU00333	['rnt', 'lhr']
+TU0-14282	ftnB
+TU0-13922	tsgA
+TU0-13156	iraM
+TU0-12813	yacL
+TU0-45272	['ybeD', 'lipB']
+TU0-13222	['abgABT', 'ogt']
+TU0-8743	yfiK
+TU0-14352	nemA
+TU0-1761	osmC
+TU0-5061	metA
+TU0-8458	['rsxABCDGE', 'nth']
+TU0-8810	hokA
+TU00254	cydDC
+TU0-2603	gyrB
+TU0-13844	yqiJK
+TU0-8528	tesB
+TU0-44225	infB
+TU00314	['yhdT', 'panF', 'prmA']
+TU-8434	yicJI
+TU0-13903	yhdP
+TU0-14252	tig
+TU0-12796	insA1B1AB1
+TU0-13138	ldtC
+TU0-13205	ycjD
+TU0-45256	mglBAC
+TU0-14332	rseX
+TU0-8727	yejK
+TU0-4904	['gapA', 'yeaD']
+TU0-1541	tsr
+TU0-8790	eco
+TU0-8356	ybbN
+TU0-2402	mhpABCDFE
+TU00238	['ansA', 'pncA']
+TU0-8510	tusA
+TU0-13827	ygiQ
+TU00298	['menFD', 'yfbB', 'menBCE']
+TU0-44209	nanY
+TU0-13887	murA
+TU0-14232	yghA
+TU0-1198	uspB
+TU0-13122	ymdA
+TU0-14313	ispDF
+TU0-45241	['acs', 'yjcHG']
+TU0-13182	purU
+TU0-14803	['ykfBF', 'yafX', 'ykfGH', 'yafW', 'ykfI']
+TU0-4681	idnK
+TU0-8338	ygcG
+TU0-8768	ampH
+TU00222	oppABCDF
+TU0-198693	mazE
+TU0-13810	yqgA
+TU0-8493	proC
+TU0-44193	btuD
+TU00279	glgS
+TU525	ilvLXG_1G_2MEDA
+TU0-13870	tdcR
+TU0-14216	['holD', 'rimI', 'yjjG']
+TU0-1161	ldcC
+TU0-13106	['gfcE', 'etp', 'etk']
+TU0-14294	CsiR
+TU0-45226	xapAB
+TU0-13510	yegW
+TU0-45280	ihfB
+TU0-14781	yahE
+TU0-8752	yghT
+TU0-8301	['ackA', 'pta']
+TU0-1821	cusCFBA
+TU00205	guaBA
+TU0-8476	metY
+TU0-13791	ygfF
+TU00262	dppABCDF
+TU0-42694	aroD
+TU0-13853	fadH
+TU483	['rnc', 'era', 'recO', 'pdxJ', 'acpS']
+TU0-4501	cdaR
+TU0-14199	['yjiHG', 'iadA']
+TU0-1002	astCADBE
+TU0-13088	['ycaR', 'kdsB']
+TU0-14264	rraA
+TU0-45211	murQP
+TU0-13148	['ymfH', 'xisE', 'intE']
+TU0-13491	yeeY
+TU0-45264	['mnt', 'btuF', 'yadS']
+TU0-14746	uxaCA
+TU0-8735	yfeH
+TU0-8221	metE
+TU0-1582	cspA
+TU-8405	flhBAE
+TU0-8367	rssAB
+TU00189	nfo
+TU00246	btuCED
+TU0-13775	ygeY
+TU0-13835	mdaB
+TU0-42650	['hcp', 'hcr', 'poxB']
+TU0-44217	speE
+TU365	phr
+TU-8421	plsB
+TU0-14179	insC6CD6D6
+TU0-14242	yncJ
+TU0-13072	['ybjO', 'rlmC']
+TU0-13130	grxB
+TU0-45196	['dnaN', 'recF']
+TU0-45249	mlrA
+TU0-13472	yeeJ
+TU0-14818	['pgk', 'fbaA']
+TU0-14714	murQP
+TU0-8347	dcuSR
+TU0-8084	aspS
+TU00230	accA
+TU-8383	yfeKS
+TU0-13819	gss
+TU00173	glpFKX
+TU0-44201	gnsA
+TU0-13758	yqeG
+TU0-14224	serB
+TU0-42603	accBC
+TU0-13114	['wrbA', 'yccJ']
+TU341	['metY', 'yhbC', 'nusA', 'infB', 'rbfA', 'truB', 'rpsO', 'pnp']
+TU0-45233	gpmA
+TU0-14163	ytfI
+TU0-14793	acrD
+TU0-13054	ybiX
+TU0-8328	yegS
+TU0-45180	groSL
+TU00213	treBC
+TU0-13453	['dcyD', 'tcyLN']
+TU0-13801	['cmtBA', 'yggPF', 'fumE', 'yggC']
+TU0-14682	ecnB
+TU0-4285	imp
+TU0-7822	ybjG
+TU5	paaABCDEFGHIJK
+TU00157	fdnGHI
+TU0-14207	yjiV
+TU0-13740	ygdG
+TU0-13098	ycbZ
+TU0-42580	galE
+TU0-45219	iraD
+TU21	['tolB', 'pal', 'ybgF']
+TU0-13501	['yegL', 'pphC']
+TU0-14146	epmA
+TU0-14764	['ivbL', 'ilvBN', 'uhpABC']
+TU0-13038	zitB
+TU0-8261	ydjM
+TU0-45164	micF
+TU00197	codBA
+TU0-13436	yebE
+TU0-13783	['xanQ', 'guaD', 'ghxQ']
+TU0-14663	kup
+TU0-42672	mlaFEDCB
+TU0-7701	fhuF
+TU423	cmr
+TU00140	gyrA
+TU0-14190	yjhU
+TU0-13723	ygbN
+TU0-13080	serS
+TU0-42552	tynA
+TU0-45204	['pstCAB', 'phoU']
+TU00527	pykF
+TU0-13483	['yeeRST', 'cbeA', 'cbtA', 'yeeW']
+TU0-14127	yjcO
+TU0-14737	fadR
+TU0-13022	chiQ
+TU0-8149	pheP
+TU0-1342	cbl
+TU-8392	['dsbC', 'recJ', 'prfB']
+TU0-14643	ucpA
+TU00181	lrp
+TU0-7361	ves
+TU0-13766	ygeLK
+TU00124	speC
+TU0-42622	sdiA
+TU0-13704	ileY
+TU354	arcA
+TU0-42529	agrA
+TU0-14171	bdcA
+TU0-8725	yegJ
+TU0-13063	['iaaA', 'gsiABCD']
+TU00510	serX
+TU0-45188	metK
+TU0-14111	yjbE
+TU0-13463	yedRJ
+TU0-13004	lipA
+TU0-14694	['pstB', 'phoU']
+TU0-13404	nimT
+TU0-7981	dhaKLM
+TU0-14621	bssS
+TU00165	fepDGC
+TU0-7161	['rirA', 'rfaQGPSBIJYZ', 'waaU']
+TU0-13748	ygdQ
+TU00108	mdh
+TU0-42592	micL
+TU0-13688	intA
+TU263	mobAB
+TU0-42504	yfeCD
+TU0-14155	yjfN
+TU0-8708	ydgJ
+TU0-13046	ybhB
+TU00494	proL
+TU0-45172	ssrS
+TU0-14088	yiiX
+TU0-13444	argS
+TU0-12988	ybdJ
+TU0-14674	groL
+TU0-13385	ydjO
+TU0-7783	borD
+TU0-14574	['secG', 'leuU']
+TU00149	dsdC
+TU0-6921	['talA', 'tktB']
+TU0-13731	ygcU
+TU00091	malT
+TU0-42568	['aroL', 'yaiA', 'aroM']
+TU0-13668	yfhH
+TU141	caiF
+TU0-42479	rsmG
+TU0-14136	yjdF
+TU0-8691	ychO
+TU0-13030	ybfD
+TU00478	yhfA
+TU0-13428	rsmF
+TU0-14067	yihR
+TU0-14651	rpoS
+TU0-12968	sfmHF
+TU0-7561	evgAS
+TU870	['tgt', 'yajC']
+TU00132	malXY
+TU0-13369	ydiK
+TU0-13714	gshA
+TU0-14549	['tyrV', 'tpr']
+TU0-42540	['ydbK', 'ompN']
+TU0-6661	ruvAB
+TU00518	leuU
+TU00075	ansB
+TU0-14119	dnaB
+TU0-13650	rlmN
+TU0-13012	['ybeU', 'djlC']
+TU0-42459	csrA
+TU0-13412	yeaX
+TU0-8674	ycaN
+TU0-14633	pykA
+TU00461	appA
+TU0-7221	prpR
+TU0-14050	bioP
+TU00116	betT
+TU0-12948	dnaX
+TU0-13696	yfjU
+TU792	xapR
+TU0-42515	bglG
+TU0-13353	gstA
+TU0-8717	yecH
+TU0-14527	['selD', 'topB']
+TU00502	ileX
+TU0-6630	['ytjB', 'lplA']
+TU0-14099	['murB', 'birA']
+TU00059	purR
+TU0-12996	rnk
+TU0-13633	yffS
+TU0-13394	ydjLKJIHG
+TU0-4204	bamA
+TU0-14612	ampH
+TU0-8656	yqhA
+TU0-7002	rpoBC
+TU00444	['cvpA', 'purF', 'ubiX']
+TU00099	araJ
+TU0-14033	['yieP', 'hsrA']
+TU0-13678	yfiL
+TU0-12932	fadM
+TU0-42492	yhjX
+TU7	paaXY
+TU0-8700	ydcI
+TU0-13335	['ynfB', 'speG']
+TU00486	rcsA
+TU0-14506	glxK
+TU0-14075	frvABXR
+TU0-6556	pepD
+TU0-12978	rzoD
+TU00043	nagBACD
+TU0-13377	ydiV
+TU0-13615	yfeO
+TU0-14561	['mutL', 'miaA', 'hfq', 'hflXKC']
+TU0-41793	gadC
+TU0-6823	cstA
+TU0-8639	ynfC
+TU00083	rpoH
+TU00427	rpoH
+TU0-13659	yfhR
+TU0-14017	yidE
+TU0-42468	cbrA
+TU0-12912	iprA
+TU0-8683	yceF
+TU593	['dnaAN', 'recF']
+TU00470	glgCAP
+TU0-13319	gnsB
+TU0-14058	yihF
+TU0-14486	['rrsA', 'ileT', 'alaT', 'rrlA', 'rrfA']
+TU0-12960	['rhsD', 'ybbC', 'ylbH', 'ybbD']
+TU0-6505	hemN
+TU821	adiY
+TU00027	glnAZLG
+TU0-13361	ydhR
+TU0-13599	yfdC
+TU0-14536	glcBA
+TU0-3901	sra
+TU0-6649	glnHPQ
+TU0-8621	yjgZ
+TU00067	trpLEDCBA
+TU00409	fimB
+TU0-13641	narQ
+TU0-14001	yicC
+TU0-42449	['yffO', 'yffP']
+TU0-12891	yahC
+TU0-8664	ytfH
+TU541	poxB
+TU00452	endA
+TU0-13301	yneE
+TU0-14042	['yifL', 'dapF', 'yigA', 'xerC', 'yigB']
+TU0-14463	nagC
+TU0-12940	pdeB
+TU0-6423	rimL
+TU782	zraP
+TU00011	['aroL', 'yaiA', 'aroM']
+TU0-13344	ydgH
+TU0-13582	['yfbU', 'hxpA']
+TU0-14516	ybjN
+TU0-36430	['yrbG', 'kdsDC', 'lptCAB']
+TU0-6582	agaR
+TU0-8603	yifE
+TU00051	oxyR
+TU00393	stpA
+TU0-13624	murR
+TU0-13986	yiaWV
+TU0-41857	msrB
+TU0-12875	yagP
+TU0-8647	yobH
+TU0-12872	yagML
+TU00435	['rpsU', 'dnaG', 'rpoD']
+TU0-13280	pptA
+TU0-14025	yieH
+TU0-14422	shoB
+TU0-12920	yajI
+TU0-6021	['aspA', 'dcuA']
+TU661	polA
+TU0-901	lpxL
+TU0-13327	['dicC', 'ydfXW']
+TU0-13563	yfaATSQP
+TU0-14494	['dksA', 'yadB']
+TU0-36399	['glrR', 'glnB']
+TU0-6513	sbcB
+TU0-8584	yhhM
+TU00035	kdpFABC
+TU00373	['xseB', 'ispA', 'dxs', 'yajO']
+TU0-13607	torI
+TU0-13965	yhjA
+TU0-4143	mdoGH
+TU0-12854	yafNOP
+TU0-8630	yjjZ
+TU0-13263	yncK
+TU00418	dnaKJ
+TU0-14402	cyaA
+TU0-14009	yicL
+TU0-5661	mcrBC
+TU0-12901	yaiL
+TU0-8847	ligB
+TU565	['rpsA', 'ihfB']
+TU0-13547	yeiP
+TU0-13310	ydfG
+TU0-3424	['psd', 'mscM']
+TU0-14471	['ybeZYX', 'lnt']
+TU0-8566	ybhQ
+TU0-6482	aspC
+TU00357	['serC', 'aroA']
+TU00019	dmsABC
+TU0-13945	dcrB
+TU0-13590	rpnB
+TU0-12837	['rcsF', 'trmO']
+TU0-36443	cbpAM
+TU0-13245	insC2D2CD2
+TU0-8612	yjfP
+TU0-14377	gspAB
+TU00401	htpG
+TU0-5421	aes
+TU0-13994	trmL
+TU0-8831	['insH', '1']
+TU0-12883	ykgA
+TU0-13527	mlrA
+TU0-13292	ydeN
+TU0-3161	cydAB
+TU0-14448	ftsK
+TU0-8550	yaiT
+TU0-6401	folA
+TU00338	['rplU', 'rpmA']
+TU00003	araC
+TU0-13927	hofMNOP
+TU0-13574	elaD
+TU0-12819	hrpB
+TU0-965	['menA', 'rraA']
+TU0-13228	['kilR', 'ydaE']
+TU0-13571	elaB
+TU0-14357	clpS
+TU0-36414	luxS
+TU0-5121	['fusA', 'tufA']
+TU0-8592	yiaU
+TU0-8815	nudE
+TU00382	pflB
+TU0-2701	['isrC', 'flu']
+TU0-13974	yhjV
+TU0-8534	ushA
+TU0-12864	mmuPM
+TU00321	potABCD
+TU0-13271	['mnaT', 'ydcZ']
+TU0-13908	trkA
+TU0-14412	eno
+TU0-12802	yabPQ
+TU0-5901	glnAZ
+TU0-13211	puuCBE
+TU0-8865	['tyrS', 'pdxY']
+TU0-14340	cdsA
+TU0-13555	rsuA
+TU0-4927	gntT
+TU0-3501	argR
+TU0-8795	feaB
+TU0-8575	yhbP
+TU0-2442	treR
+TU00365	thiCEFSGH
+TU0-8515	micA
+TU0-13953	yhiJ
+TU00303	['motRAB', 'cheAW']
+TU0-12846	gmhA
+TU0-13892	yhcADE
+TU0-13254	ydcA
+TU0-12785	yjjY
+TU0-14390	mreB
+TU0-14319	hsdRMS
+TU0-5562	['mutY', 'yggX', 'mltC', 'nupG']
+TU0-13189	yciA
+TU0-8839	mcaS
+TU0-4742	ompA
+TU0-13537	['sanA', 'yeiS']
+TU0-8777	chaA
+TU0-3341	patA
+TU0-2001	['rlmL', 'uup']
+TU0-8558	ybdH
+TU0-8498	rdlC
+TU00348	['rpsLG', 'fusA', 'tufA']
+TU00284	hipBA
+TU0-13935	asd
+TU0-13875	yraQ
+TU0-12827	['map', 'glnD', 'dapD']
+TU0-1186	['rrsE', 'gltV', 'rrlE', 'rrfE']
+TU0-13236	['stfR', 'tfaR']
+TU0-14300	yadMLKC
+TU0-14369	yebA
+TU0-13171	ycgN
+TU0-5202	apaGH
+TU0-45285	lon
+TU0-8823	trmC
+TU0-8757	ttdR
+TU0-13518	mrp
+TU0-1921	gabDTP
+TU0-3102	trxA
+TU0-8481	nfuA
+TU0-8542	yafF
+TU00267	fabZ
+TU00329	rfaDFCL
+TU0-13858	ygjR
+TU0-13918	['kefGB', 'yheV']
+TU0-45144	['sdsR', 'pphA']
+TU0-12810	['coaE', 'zapD', 'yacG']
+TU0-1041	cpxPQ
+TU0-13219	insH4
+TU0-14275	ygbK
+TU0-14349	yceH
+TU0-13153	pinE
+TU0-5003	groSL
+TU0-45269	['rrsH', 'ileV', 'alaV', 'rrlH', 'rrfH']
+TU0-8808	hdfR
+TU0-8740	yfiC
+TU0-2521	fiu
+TU0-1721	fxsA
+TU0-8524	ybaQ
+TU0-8454	['ybgIJKL', 'nei']
+TU00311	['rimP', 'nusA', 'infB']
+TU00251	clpPX
+TU0-13900	yhcO
+TU0-13841	ubiK
+TU0-12793	insL1
+TU0-44222	yabR
+TU0-14327	rnlAB
+TU-8430	lhr
+TU0-13200	lapAB
+TU0-14247	lfhA
+TU0-4881	gntRKU
+TU0-13135	['pabC', 'mltG', 'tmk', 'holB', 'ycfH']
+TU0-8787	dld
+TU0-45253	sohB
+TU0-2261	gadX
+TU0-14822	pykF
+TU0-8506	rpmE
+TU0-8353	ldhA
+TU00293	['kdtA', 'coaD']
+TU00235	adiA
+TU0-13883	['folP', 'glmM']
+TU0-1194	['dnaN', 'recF']
+TU0-44206	paaJ
+TU0-14308	yhfK
+TU0-14229	cyaY
+TU0-13179	dauA
+TU0-13119	ghrA
+TU0-4623	zntA
+TU0-45238	gabDTP
+TU0-8765	ade
+TU0-14800	ynjH
+TU0-198689	stfZ
+TU0-8335	mltF
+TU0-8490	pepT
+TU00219	rhaBAD
+TU00276	fliLMNOPQR
+TU0-13807	['yggSTU', 'rdgB', 'hemW']
+TU0-13867	yhaI
+TU0-4403	kch
+TU0-45158	ibsD
+TU522	mazEFG
+TU0-1141	ptsG
+TU0-14212	opgB
+TU0-14291	['kdsC', 'lptCAB']
+TU0-13103	rlmI
+TU0-13162	ymgC
+TU0-45223	topA
+TU0-45277	['rrsE', 'gltV', 'rrlE', 'rrfE']
+TU0-13506	cyaR
+TU0-8748	ygeV
+TU0-14771	['yobF', 'cspC']
+TU0-1802	pspF
+TU0-8266	hokE
+TU0-8473	tppB
+TU00202	['pstSCAB', 'phoU']
+TU00259	['dnaAN', 'recF']
+TU0-13788	['sdhE', 'ygfX']
+TU0-13850	ebgR
+TU0-42688	yihUTS
+TU0-4462	gudPXD
+TU461	dadAX
+TU-8443	ygbA
+TU0-14195	['topAI', 'yjhQ']
+TU0-14258	norR
+TU0-13085	ycaP
+TU0-13144	roxA
+TU0-45209	['rrsC', 'gltU', 'rrlC', 'rrfC']
+TU0-45261	lapAB
+TU0-13488	dacD
+TU0-8732	yfbN
+TU0-14742	['gadE', 'mdtEF']
+TU0-1548	ycgR
+TU0-8201	ybjP
+TU0-8364	rssB
+TU-8398	['lptB', 'rpoN', 'hpf', 'ptsN', 'yhbJ']
+TU00243	atpIBEFHAGDC
+TU00186	lysR
+TU0-13832	mqsRA
+TU0-13771	ygeR
+TU0-44213	btuE
+TU0-42638	['rseD', 'rpoE', 'rseABC']
+TU-8414	malQ
+TU361	['cmk', 'rpsA']
+TU0-14239	setB
+TU0-14176	lptFG
+TU0-13127	['solA', 'yceO']
+TU0-13069	ybjJI
+TU0-45246	['ynfEFGH', 'dmsD']
+TU0-45193	['mlc', 'ynfK']
+TU0-14814	pgk
+TU0-13469	msrPQ
+TU0-8344	['hypABCDE', 'fhlA']
+TU0-14701	['tolC', 'ygiBC']
+TU00227	['edd', 'eda']
+TU0-8081	['pgk', 'fbaA']
+TU0-13816	yghQ
+TU00170	gcvTHP
+TU0-44198	allB
+TU0-13755	kduD
+TU0-14220	yjjW
+TU0-42599	ascB
+TU0-13111	yccM
+TU302	tauABCD
+TU0-45230	osmB
+TU0-14160	ytfF
+TU0-13515	rcnB
+TU0-13051	hcxB
+TU0-14787	rhaD
+TU0-45177	galET
+TU0-8325	acrR
+TU0-13450	yecA
+TU00210	ftsQAZ
+TU0-14679	['ybgA', 'phr']
+TU0-13798	ygfI
+TU0-7805	nagA
+TU0-42699	garR
+TU00154	hypABCDE
+TU489	hupB
+TU0-13737	syd
+TU0-14204	rpnD
+TU0-42576	micL
+TU0-13094	elfA
+TU164	lldPRD
+TU0-45216	['pstSCAB', 'phoU']
+TU0-14142	yjeJ
+TU0-13498	wcaKLM
+TU0-13035	lysZ
+TU0-14761	ahpCF
+TU0-13433	holE
+TU0-8243	['nudB', 'yebC', 'ruvC']
+TU0-14658	['rpsMKD', 'rpoA', 'rplQ']
+TU00194	nadB
+TU0-7622	['allDC', 'ylbA']
+TU0-13780	mocA
+TU00137	malS
+TU0-42664	['ymdAB', 'clsC']
+TU0-13720	pphB
+TU402	glpGR
+TU0-42548	feaR
+TU0-14186	insMI3
+TU00523	lpdA
+TU0-13077	aat
+TU0-14124	yjcE
+TU0-45201	csgDEFG
+TU0-13017	ybeZY
+TU0-13479	insH6
+TU0-13417	['pabB', 'nudL']
+TU0-14719	gadW
+TU0-14638	gatZABCD
+TU0-8146	ytfK
+TU0-7321	mntH
+TU-8389	infA
+TU00121	fur
+TU00178	thrLABC
+TU0-13701	pinH
+TU0-13763	ygeH
+TU0-42524	['ycjY', 'ymjDC', 'mpaA']
+TU0-42614	lgt
+TU0-8722	yegE
+TU347	arcA
+TU00507	['metT', 'leuW', 'glnUW', 'metU', 'glnVX']
+TU0-14168	cybC
+TU0-14106	arpA
+TU0-13060	ybiU
+TU0-13001	cspE
+TU0-45185	cyaR
+TU0-13401	cdgI
+TU0-13460	dgcQ
+TU0-14617	entH
+TU0-14691	yfaXWVU
+TU0-7061	yzfA
+TU0-7881	['mdtABCD', 'baeSR']
+TU00105	fumC
+TU00162	ppsA
+TU0-13683	nadK
+TU0-13745	['ppdAB', 'ygdB', 'ppdC', 'recC']
+TU0-42499	fumAC
+TU0-42588	galK
+TU0-8705	ydeE
+TU26	eda
+TU00491	argU
+TU0-14152	yjeT
+TU0-14081	yiiQ
+TU0-13043	ybhI
+TU0-12983	tfaX
+TU0-45169	acnA
+TU0-13382	yniA
+TU0-13441	lpxM
+TU0-14568	['hfq', 'hflXKC']
+TU0-14671	yjdC
+TU0-6884	carB
+TU0-7745	frc
+TU00088	tyrP
+TU00146	cysDNC
+TU0-13664	yphG
+TU0-13728	ygcNOP
+TU0-42475	leuO
+TU0-42564	bglG
+TU0-8688	pliG
+TU121	putP
+TU00475	['cvpA', 'purF', 'ubiX']
+TU0-14132	yjdM
+TU0-14064	ompL
+TU0-13027	ybfOC
+TU0-12965	['folD', 'ybcJ']
+TU0-13425	['proQ', 'prc']
+TU864	phoH
+TU0-14648	yfGM
+TU0-13366	ldtE
+TU0-7501	bglX
+TU0-14546	['yaiA', 'aroM']
+TU00129	nupG
+TU0-6654	pnp
+TU0-13711	ygaM
+TU00072	['ada', 'alkB']
+TU0-42535	['ydcSTUV', 'patD']
+TU0-13647	yfgG
+TU00515	['serV', 'argVYZQ']
+TU0-42456	csrA
+TU0-14116	yjbJ
+TU0-8671	ybjK
+TU0-13009	['rsfS', 'rlmH', 'mrdAB', 'rlpA']
+TU00457	livKHMGF
+TU0-1341	argP
+TU0-14047	recQ
+TU0-14630	pykF
+TU0-12945	['priC', 'ybaM']
+TU0-7182	['istR', '1']
+TU789	mlc
+TU00113	asnC
+TU0-13350	add
+TU0-13693	yfjM
+TU0-14523	rfbACX
+TU0-42512	gntK
+TU0-6625	speB
+TU0-8714	yeaP
+TU00056	purHD
+TU00499	asnV
+TU0-13629	yffL
+TU0-14093	yijO
+TU0-4192	ygiM
+TU0-12993	ybdN
+TU0-8652	yqeK
+TU0-13391	sppA
+TU00440	['nlpD', 'rpoS']
+TU0-1461	dctA
+TU0-14030	mioC
+TU0-6983	cspG
+TU0-12927	yajG
+TU00096	['slp', 'dctR']
+TU684	torYZ
+TU0-13674	kgtP
+TU0-13332	ynfP
+TU0-42484	esrE
+TU0-14501	nrdG
+TU0-8697	ydaM
+TU0-6552	lysC
+TU00483	['ptsHI', 'crr']
+TU00040	melR
+TU0-14072	yiiF
+TU0-13612	alaC
+TU0-12974	ybcLM
+TU0-41681	phoQ
+TU875	['dam', 'rpe', 'gph', 'trpS']
+TU0-8636	ynaI
+TU0-13374	ydiFO
+TU00424	hypBCDE
+TU0-14555	yibA
+TU0-14014	yidHGF
+TU0-6702	sdhDAB
+TU0-12906	yaiP
+TU00080	fadL
+TU586	gadAX
+TU0-13656	pepB
+TU0-13315	['yntF', 'ydfK']
+TU0-42465	sdiA
+TU0-14478	nfuA
+TU0-8680	yccU
+TU0-6501	cysE
+TU00467	cadBA
+TU00024	galS
+TU0-14055	fre
+TU0-13595	yfcV
+TU0-12956	['qmcA', 'ybbJ']
+TU0-3841	['rapA', 'rluA']
+TU797	spf
+TU0-8617	yjgD
+TU0-13358	ydhL
+TU00406	htgA
+TU0-14532	mreCD
+TU0-13999	yibD
+TU0-6646	deoBD
+TU0-12888	ykgH
+TU00064	sodA
+TU0-13298	lsrK
+TU0-13638	ypfG
+TU0-14458	chaC
+TU0-42252	gntU
+TU0-6408	pfkB
+TU0-8661	ysgA
+TU00008	['aroF', 'tyrA']
+TU00449	tsx
+TU0-13579	alaA
+TU0-14039	['rfe', 'wzzE', 'wecBC', 'rffGHC', 'wecE', 'wzxE', 'wecF', 'wzyE', 'rffM']
+TU0-36425	iraM
+TU0-12937	mdlAB
+TU0-8600	yidX
+TU723	mutS
+TU00390	csgBAC
+TU0-13341	ynfM
+TU0-13983	yiaB
+TU0-14513	cadA
+TU00387	cbpAM
+TU0-6564	ssb
+TU0-13980	ghrB
+TU00048	ompA
+TU0-12869	xynR
+TU0-13621	zipA
+TU0-13276	['rhsE', 'ydcD']
+TU0-4183	rfaDFCL
+TU0-14417	emrE
+TU0-8644	yoaF
+TU0-5982	ugpBAECQ
+TU00432	uspA
+TU0-8873	allR
+TU0-14021	mnmE
+TU0-13560	yojI
+TU0-12917	sbcDC
+TU0-3622	yhdWXYZ
+TU641	aroP
+TU0-8580	yhgN
+TU0-13324	hokD
+TU00370	['udk', 'dcd']
+TU0-14491	['rdgB', 'yggW']
+TU0-13960	yhiS
+TU0-6510	ppc
+TU0-12851	rayT
+TU00032	['ivbL', 'ilvBN']
+TU0-13259	opgD
+TU0-13604	yfdPQ
+TU0-14396	crp
+TU0-4001	['csiD', 'ygaF', 'gabDTP']
+TU0-5581	['yggX', 'mltC']
+TU0-8627	yjjK
+TU0-8844	ldrB
+TU00415	fliAZY
+TU0-13543	nupX
+TU0-14006	yicH
+TU0-3421	lpxP
+TU0-12896	yahL
+TU0-8563	dtpD
+TU561	pqiABC
+TU00354	['secE', 'nusG']
+TU0-13306	yneK
+TU0-13942	['rsmD', 'yhhL']
+TU0-14468	phoPQ
+TU0-12834	['yaeP', 'rof']
+TU0-6443	dapD
+TU0-13241	hslJ
+TU00016	cyaA
+TU0-14374	gspCDEFGHIJKLMO
+TU0-13587	yfcF
+TU0-5322	['ydiQRST', 'fadK']
+TU0-36438	arrS
+TU0-8828	mak
+TU0-8609	yjcC
+TU0-13524	yehR
+TU00398	osmE
+TU0-3124	cueO
+TU0-13991	yibG
+TU0-8547	yagU
+TU0-12880	ecpR
+TU00335	['rplJL', 'rpoBC']
+TU0-13289	pqqL
+TU0-13924	['yhfXW', 'php', 'yhfUTS']
+TU0-14443	['ftsLI', 'murEF', 'mraY', 'murD', 'ftsW', 'murGC', 'ddlB', 'ftsQAZ', 'lpxC']
+TU0-12816	yadI
+TU0-6361	dolP
+TU0-13225	ttcA
+TU0-13286	adhP
+TU0-14354	rnd
+TU0-14431	dcuR
+TU0-5081	uidABC
+TU0-6241	tisB
+TU0-8812	ompX
+TU0-962	sohB
+TU0-2644	micF
+TU0-13568	yfaZ
+TU0-8530	torT
+TU0-36411	yciE
+TU00316	pflDC
+TU0-8589	yiaF
+TU0-13905	yhdJ
+TU00379	['focA', 'pflB']
+TU0-12799	yaaU
+TU0-13971	pdeK
+TU0-13207	ymjA
+TU0-12861	perR
+TU0-14334	isrC
+TU0-13268	patD
+TU0-4906	gapA
+TU0-14407	hypF
+TU0-8792	envR
+TU0-5782	['mutY', 'yggX', 'mltC']
+TU0-2421	mgtA
+TU0-8862	trpS
+TU0-8512	slyX
+TU0-13552	yejABEF
+TU00300	moaABCDE
+TU0-3465	['yiiS', 'uspD']
+TU0-13889	mlaFEDCB
+TU0-8572	ygjH
+TU0-1222	efp
+TU00362	['surA', 'pdxA', 'rsmA', 'apaGH']
+TU0-14315	['glf', 'rfc']
+TU0-13950	yrhC
+TU0-13184	insZ
+TU0-12842	gloB
+TU0-4701	lacZYA
+TU0-13251	hrpA
+TU0-8772	bioH
+TU0-14387	mreBCD
+TU0-198695	xtpA
+TU0-5523	mutM
+TU0-8495	rdgC
+TU0-8836	['insH', '9']
+TU00281	glyQS
+TU0-13532	mdtQ
+TU0-13872	['sohA', 'yhaV']
+TU0-3302	recF
+TU0-1182	['rrsB', 'gltT', 'rrlB', 'rrfB']
+TU0-8555	yajQ
+TU0-14296	rhaM
+TU00345	['rpsB', 'tsf']
+TU0-13168	ycgI
+TU0-13932	yhgF
+TU0-45282	['rseD', 'rpoE', 'rseABC']
+TU0-12823	dgt
+TU0-8754	yghZ
+TU0-13233	trkG
+TU0-1841	inaA
+TU0-14365	ybcH
+TU0-8478	dosCP
+TU0-5184	flk
+TU00264	['envY', 'ompT']
+TU0-8820	mug
+TU0-13855	rlmG
+TU0-2742	hemF
+TU0-4504	alsRBACE
+TU0-8539	yacH
+TU0-1004	astCADBE
+TU00326	pspABCDE
+TU0-14272	rne
+TU0-13914	['bfd', 'bfr']
+TU0-13150	ymfK
+TU0-12808	cra
+TU0-45266	oxyR
+TU0-13216	ycjY
+TU0-8737	yfeR
+TU0-14345	eptA
+TU0-1603	dcuC
+TU0-4981	gntXY
+TU0-8373	['bamA', 'hlpA', 'lpxD', 'fabZ', 'lpxAB', 'rnhB', 'dnaE']
+TU0-8805	grxD
+TU00248	chbBCARFG
+TU0-2503	topA
+TU0-13837	['nudF', 'yqiB', 'cpdA', 'yqiA', 'parE']
+TU0-8521	srmB
+TU0-44219	lpxT
+TU00308	nikABCDER
+TU-8423	rutR
+TU0-13897	yhcB
+TU0-14244	yciY
+TU0-12790	mog
+TU0-13132	murJ
+TU0-14324	yjaH
+TU0-45250	glk
+TU0-13196	['yciK', 'btuR']
+TU0-1482	fabB
+TU0-4802	bglGFB
+TU0-8350	macB
+TU0-8782	dacC
+TU00232	accD
+TU0-2082	mfd
+TU0-13821	yghX
+TU0-8503	ybiT
+TU0-44203	mngB
+TU00289	hybOABCDEFG
+TU0-14226	slt
+TU0-13880	deaD
+TU0-13116	efeOB
+TU0-1191	['rrsD', 'ileU', 'alaU', 'rrlD', 'rrfD', 'thrV', 'rrfF']
+TU0-45235	ilvY
+TU0-14305	yfaE
+TU0-14795	fnrS
+TU0-13176	ymgE
+TU0-8331	ydhB
+TU0-4545	galETKM
+TU00215	fadBA
+TU0-8762	omrB
+TU0-13804	yggI
+TU0-1981	osmY
+TU0-4288	iclR
+TU0-8487	pdxK
+TU502	cfa
+TU00273	flgBCDEFGHIJ
+TU0-1421	ydeA
+TU0-13864	yqjF
+TU0-13100	mgsA
+TU0-45153	mqsA
+TU0-45220	pykA
+TU0-1106	aqpZ
+TU0-13503	sibB
+TU0-14287	yjbEFGH
+TU0-14766	iraD
+TU0-13158	bluR
+TU0-8263	dinQ
+TU0-45274	['epd', 'pgk']
+TU00199	nrfABCDEFG
+TU0-8745	alaE
+TU0-13785	uacT
+TU0-1781	['pth', 'ychF']
+TU0-42682	yihW
+TU0-8469	fbaB
+TU441	['acpP', 'fabF']
+TU00256	['dapA', 'nlpB']
+TU0-14192	yjhIHG
+TU0-13846	hldE
+TU0-13082	ycaM
+TU0-4441	norVW
+TU0-45206	gyrB
+TU-8438	ftnB
+TU0-13485	yeeX
+TU0-14254	aroH
+TU0-14739	ogt
+TU0-13141	lolCDE
+TU0-8161	artJ
+TU0-45258	patA
+TU-8394	qseBC
+TU0-8729	yfaL
+TU00183	livJ
+TU0-1545	flgK
+TU0-13768	ygeP
+TU0-8360	treF
+TU0-42628	['rplU', 'rpmA', 'yhbE', 'obgE']
+TU00240	artPIQM
+TU356	nmpC
+TU0-13829	plsC
+TU0-14173	tabA
+TU0-44210	xapB
+TU0-13065	bssR
+TU0-14235	yggG
+TU0-45190	['sgrST', 'setA']
+TU0-13124	yceK
+TU0-13466	hchA
+TU0-45243	alkA
+TU0-14697	mdtEF
+TU0-14806	hemL
+TU0-8021	acrD
+TU0-8340	fliE
+TU00167	tonB
+TU00224	serA
+TU0-13750	tas
+TU0-13813	yghG
+TU0-42594	['gltI', 'sroC', 'gltJKL']
+TU0-44195	psiF
+TU281	['rseD', 'rpoE', 'rseABC']
+TU0-14218	ytjA
+TU0-14157	ulaR
+TU0-13108	gfcA
+TU0-13048	ybhM
+TU0-45228	yceJI
+TU0-45174	mdoGH
+TU0-13512	thiMD
+TU0-13446	insA5B5AB5
+TU0-14784	htpG
+TU0-14676	artPIQM
+TU0-8321	['dut', 'slmA']
+TU0-7802	slyB
+TU00207	['wza', 'wzb', 'wzc', 'wcaAB']
+TU00151	fecABCDE
+TU0-13793	zapA
+TU0-13733	['yqcE', 'ygcE']
+TU0-42696	dmsC
+TU0-42571	['araE', 'ygeA']
+TU486	hupA
+TU161	['ompR', 'envZ']
+TU0-14201	yjiK
+TU0-14139	dtpC
+TU0-13090	ldtD
+TU0-13032	ybgQPO
+TU0-45213	mpl
+TU0-13430	yebW
+TU0-13493	['yefM', 'yoeB']
+TU0-14653	eno
+TU0-14750	citCDEFXG
+TU0-7601	allA
+TU0-8224	metR
+TU00134	udp
+TU-8408	fliE
+TU00191	metC
+TU0-42544	nanCMS
+TU0-13777	yqeA
+TU00520	pheU
+TU0-42656	leuO
+TU0-14121	aphA
+TU369	gadBC
+TU0-13014	rihA
+TU0-14183	nanXY
+TU0-13414	yoaA
+TU0-13074	ybjS
+TU0-14635	flu
+TU0-45198	['rrsG', 'gltW', 'rrlG', 'rrfG']
+TU0-7281	['yrdD', 'rimN', 'aroE', 'yrdB']
+TU0-13476	yeeN
+TU00118	cadC
+TU0-14716	sibE
+TU0-13698	yfjW
+TU0-8121	talB
+TU0-42517	ilvL
+TU-8385	['bamB', 'der']
+TU0-8719	yedD
+TU00175	ihfB
+TU00504	['thrU', 'tyrU', 'glyT', 'thrT', 'tufB']
+TU0-13760	yqeIJ
+TU0-14103	['nudC', 'hemE', 'nfi']
+TU0-42605	['yajG', 'ampG']
+TU0-12998	citT
+TU344	arcA
+TU0-13398	yeaD
+TU0-14165	['tamAB', 'ytfP']
+TU0-14614	tig
+TU0-13057	ybiO
+TU0-7042	srlR
+TU0-45182	gltBDF
+TU00101	cyoABCDE
+TU0-13456	yedK
+TU0-13680	ffh
+TU0-14687	nemRA
+TU0-42495	['ibaG', 'murA']
+TU0-7842	rpsT
+TU0-8702	ydcO
+TU00159	fumB
+TU00488	glmUS
+TU0-13742	tcdA
+TU0-14077	yiiM
+TU0-42582	galET
+TU0-12980	ybcW
+TU241	msrA
+TU0-13379	arpB
+TU0-14148	yjeNO
+TU0-14563	['miaA', 'hfq', 'hflXKC']
+TU0-13040	modEF
+TU0-6861	ilvIH
+TU0-45166	['ycgZ', 'ymgA', 'ariR', 'ymgC']
+TU00085	tnaCAB
+TU0-13438	yebG
+TU0-13661	yphA
+TU0-14668	tpiA
+TU0-42471	metH
+TU0-7741	ydeP
+TU0-8685	bhsA
+TU00142	cynTSX
+TU00472	rpsU
+TU0-13725	casABCDE12
+TU0-14061	bipA
+TU0-42559	gcvR
+TU0-12962	['fdrA', 'ylbEF', 'ybcF']
+TU102	aldA
+TU861	yeiL
+TU0-14129	yjcS
+TU0-13363	ydhXUT
+TU0-13024	ybfP
+TU0-14538	['menD', 'yfbB', 'menBCE']
+TU0-13421	rlmA
+TU0-6651	ilvA
+TU0-14645	['bepA', 'yfgD']
+TU00069	uvrA
+TU0-7421	glk
+TU0-13643	ypfH
+TU00126	ubiG
+TU0-42452	['ppk', 'ppx']
+TU0-13708	kbp
+TU0-8666	zupT
+TU0-42532	['cbpA', 'cbpM']
+TU00454	sdaCB
+TU00512	['glyW', 'cysT', 'leuZ']
+TU0-14044	rarD
+TU0-14113	xylE
+TU0-12942	maa
+TU0-13006	lipB
+TU784	rsd
+TU0-13406	yeaQ
+TU0-13346	tus
+TU0-14625	acnA
+TU0-14519	tufA
+TU0-7163	waaA
+TU0-6621	ppiD
+TU00110	carAB
+TU00053	phoBR
+TU0-13690	yfjI
+TU0-13626	['ypeA', 'yfeZ']
+TU0-42509	sucAB
+TU0-4189	yggN
+TU0-8710	ydiP
+TU0-8649	yohD
+TU00496	metZWV
+TU00437	rpoD
+TU0-14090	yijF
+TU0-14027	cbrC
+TU0-12990	insL2
+TU0-12924	['panE', 'yajL']
+TU0-13388	['ydjXYZ', 'ynjABCD']
+TU68	xylR
+TU0-14606	lpxC
+TU0-13329	ydfABC
+TU0-6942	lepAB
+TU0-14496	pdxY
+TU00093	mtr
+TU0-6515	ung
+TU0-13671	['tapT', 'patZ']
+TU00037	['lexA', 'dinF']
+TU0-42481	gapA
+TU0-13609	yfdV
+TU0-8693	ycjG
+TU0-4161	bamC
+TU00480	['ptsHI', 'crr']
+TU0-8632	rimO
+TU0-14069	['yihV', 'csqR']
+TU00420	glgS
+TU0-12970	peaD
+TU0-14011	yicN
+TU872	['aroKB', 'damX', 'dam', 'rpe', 'gph', 'trpS']
+TU0-12903	yaiO
+TU0-13371	ydiL
+TU582	rnb
+TU0-14551	tdcBCDEFG
+TU0-13312	ydfZ
+TU0-6685	rnhA
+TU0-14473	['ycjXF', 'tyrR']
+TU00077	cysB
+TU0-6484	blc
+TU0-13652	['yfhM', 'pbpC']
+TU00021	['dusB', 'fis']
+TU0-42461	azoR
+TU0-13592	yfcJ
+TU0-8677	matP
+TU0-3721	['acs', 'yjcHG']
+TU00464	ppiA
+TU0-8614	yjfZ
+TU0-14052	tatABC
+TU00403	['yadV', 'htrE']
+TU0-12952	ybaL
+TU0-13996	grxC
+TU794	acnA
+TU0-12885	rclABC
+TU0-13355	anmK
+TU0-13294	ydeTSR
+TU0-14529	caiCDE
+TU0-14452	wzbc
+TU0-6634	aceEF
+TU0-6404	lysP
+TU00061	pyrD
+TU00005	argF
+TU0-13635	eutNEJG
+TU0-13576	yfbM
+TU0-42202	rpsI
+TU0-36422	uxaB
+TU0-8658	nfeR
+TU0-8597	yidP
+TU00446	clpA
+TU0-36418	['pstCAB', 'phoU']
+TU0-14035	yifN
+TU0-8594	yicS
+TU0-12934	ybaE
+TU00384	pflB
+TU702	proVWX
+TU0-13977	yhjY
+TU0-13337	clcB
+TU0-12866	['yagAB', 'insX']
+TU0-14510	rrfG
+TU0-13273	mcbR
+TU0-6559	uvrC
+TU0-14414	eno
+TU00045	narK
+TU0-5961	cytR
+TU0-13617	insL3
+TU0-8868	dnaTC
+TU0-41801	ydeI
+TU0-8641	ynjF
+TU0-3581	['argT', 'hisJQMP']
+TU00429	lysU
+TU0-8577	yhbY
+TU0-14019	yidA
+TU00367	['ybgC', 'tolQRA']
+TU0-12914	yaiI
+TU0-13956	dtpB
+TU602	['yceD', 'rpmF']
+TU0-12848	ldtF
+TU0-13321	['essQ', 'ydfR', 'rrrQ', 'rzpQ']
+TU0-13256	mokB
+TU0-14488	rapA
+TU0-14393	dgt
+TU0-6507	katE
+TU0-5567	['mutY', 'yggX']
+TU00029	glnAZLG
+TU0-8841	kdgR
+TU0-13601	yfdGHI
+TU0-13539	['folE', 'yeiB']
+TU0-3963	fepDGC
+TU0-3382	gpmA
+TU0-8623	yjhR
+TU0-8560	ybeL
+TU00411	grpE
+TU00351	['rpsP', 'rimM', 'trmD', 'rplS']
+TU0-14003	yicG
+TU0-13937	yhhX
+TU0-12893	yahH
+TU0-12831	['dxr', 'uppS', 'cdsA']
+TU543	rnpB
+TU0-13238	ynaE
+TU0-13303	['glsB', 'yneG']
+TU0-14371	trpt
+TU0-14465	['ileS', 'lspA', 'fkpB', 'ispH']
+TU0-52570	aspX
+TU0-6428	['pyrG', 'eno']
+TU0-8825	mdtK
+TU00013	bioA
+TU0-13521	yehHI
+TU0-13584	yfcC
+TU0-3104	trxC
+TU0-36432	['kdsC', 'lptCAB']
+TU0-8544	yafU
+TU0-8606	yihA
+TU00332	['rnc', 'era']
+TU00395	stpA
+TU0-13920	prkB
+TU0-13988	yibF
+TU0-12812	nadC
+TU0-12877	ykgJ
+TU0-13221	uspE
+TU0-13283	yddLKJ
+TU0-14351	ydhM
+TU0-14424	ryjB
+TU0-5041	uxuR
+TU0-6043	entS
+TU0-881	galR
+TU0-93010	ytfK
+TU0-2581	fhuE
+TU0-13565	yfaVU
+TU0-8527	tdk
+TU0-36403	rcsB
+TU00313	panBC
+TU0-8586	yhiM
+TU0-13902	tldD
+TU00375	dsdA
+TU0-12795	sokC
+TU0-13967	yhjD
+TU0-13204	fabI
+TU0-12857	frsA
+TU0-14330	tpke11
+TU0-13265	rlhA
+TU0-4903	hdeD
+TU0-14404	['dapE', 'ypfN']
+TU0-8789	dsrB
+TU0-5741	pspG
+TU0-2342	serA
+TU0-8849	luxS
+TU0-8509	sieB
+TU0-13549	['yeiR', 'lpxT']
+TU00297	mdoGH
+TU0-3426	['sbmA', 'yaiW']
+TU0-13886	sfsB
+TU0-8568	ybiN
+TU0-1196	['dnaN', 'recF']
+TU00359	['yacC', 'speED']
+TU0-14312	ftsB
+TU0-13947	acpT
+TU0-13181	rttR
+TU0-12839	dkgB
+TU0-4642	znuA
+TU0-13248	pdxI
+TU0-8767	amiC
+TU0-14381	['relBE', 'hokD']
+TU0-198692	ameF
+TU0-5501	argG
+TU0-8492	ppA
+TU0-8833	['insH', '11']
+TU00278	ftsYEX
+TU0-13529	pbpG
+TU0-13869	cyuPA
+TU0-3163	cydAB
+TU0-45163	pykF
+TU0-8552	ybaY
+TU0-1143	grcA
+TU00340	['rpmH', 'rnpA']
+TU0-14293	alsK
+TU0-13929	['yrfG', 'hslR']
+TU0-13164	ymgF
+TU0-12820	mrcB
+TU0-45279	hdeD
+TU0-13230	racR
+TU0-8750	yggR
+TU0-14362	['insH', '7']
+TU0-1805	pspF
+TU0-5163	ulaG
+TU0-8475	yciZT
+TU0-8817	nlpA
+TU00261	['dnaTC', 'yjjA']
+TU0-2707	metJ
+TU0-13852	ygjJK
+TU0-8536	uspG
+TU0-4483	rpiB
+TU00323	['ppk', 'ppx']
+TU0-1	['rpmF', 'plsX', 'fabHDG']
+TU0-13910	arfA
+TU0-14263	['asnC', 'mioC', 'mnmG']
+TU0-12805	['sgrR', 'sroA', 'thiBPQ']
+TU0-13147	ymfED
+TU0-13213	ompG
+TU0-45263	gapA
+TU0-14342	yraN
+TU0-8734	yfdY
+TU0-4929	asnB
+TU0-1581	cspA
+TU0-8800	fsaA
+TU0-8366	bcsQ
+TU0-2447	mgrB
+TU00245	basRS
+TU0-8517	arcZ
+TU0-13834	ygiW
+TU00305	['napFDAGHBC', 'ccmABCDEFGH']
+TU0-44215	speD
+TU0-13894	yhcG
+TU-8419	yieEF
+TU0-12787	yaaX
+TU0-14241	yncL
+TU0-14321	yfhA
+TU0-13129	yceB
+TU0-13193	yciGFE
+TU0-45248	['ada', 'alkB']
+TU0-4782	crr
+TU0-14817	pgk
+TU0-8779	cspF
+TU0-8346	frlABCDR
+TU0-2041	hpt
+TU00229	gntT
+TU0-8500	rhlE
+TU0-13818	pitB
+TU00286	hsdMS
+TU0-44200	frlR
+TU0-13877	['ubiT', 'yhbS']
+TU0-14222	yjjJ
+TU0-1188	['rrsG', 'gltW', 'rrlG', 'rrfG']
+TU0-13113	yccE
+TU0-14302	glgBXCAP
+TU0-45232	['ptsHI', 'crr']
+TU0-13173	nhaB
+TU0-14792	xdhABC
+TU0-45288	hemF
+TU0-8327	nfeF
+TU0-8759	aaeR
+TU00212	torCAD
+TU0-194010	['citR', 'ybdNM']
+TU0-13800	mscS
+TU0-8484	napFDAGHBC
+TU0-4284	imp
+TU00269	feoABC
+TU491	xseA
+TU0-13860	sstT
+TU0-14206	yjiT
+TU0-45146	gltF
+TU0-13096	zapC
+TU0-1062	dsbA
+TU0-45218	rpoH
+TU0-14278	fliDST
+TU0-13500	asmA
+TU0-13155	icdC
+TU0-14763	['yrbN', 'deaD']
+TU0-45271	ftsQAZ
+TU0-8245	yebB
+TU0-8742	yfiF
+TU00196	manXYZ
+TU0-1742	ribA
+TU0-13782	['ygfM', 'xdhD']
+TU0-8456	['ydgK', 'rsxABCDGE', 'nth']
+TU0-42668	ymdAB
+TU00253	creABCD
+TU404	glpR
+TU0-13843	['insC5CD5D5', 'yqiHIG']
+TU0-14189	insB7
+TU0-44224	trxA
+TU0-13079	['lolA', 'rarA']
+TU-8433	gspAB
+TU0-45203	tpiA
+TU0-14251	bolA
+TU0-13482	yeeP
+TU0-13137	ycfJ
+TU0-14736	gadEF
+TU0-45255	can
+TU0-8148	ansP
+TU0-1521	fliCX
+TU-8391	bamD
+TU0-8355	mutM
+TU00180	umuDC
+TU00237	ampDE
+TU0-13765	pbl
+TU0-13826	yqhH
+TU0-42620	sdsN
+TU0-44208	nanY
+TU352	arcA
+TU0-14231	bax
+TU0-14170	yjgH
+TU0-13121	ycdZ
+TU0-13062	ybiYW
+TU0-45240	hepA
+TU0-45187	['dnaN', 'recF']
+TU0-14802	['ykfBF', 'yafX', 'ykfGH', 'yafW', 'ykfI']
+TU0-13462	yedI
+TU0-8337	barA
+TU0-14693	pstSCA
+TU00221	lysU
+TU0-7962	dhaR
+TU0-13809	['trmB', 'yggL']
+TU00164	fepB
+TU0-4405	glrK
+TU0-13747	mutH
+TU524	ilvLXG_1G_2MEDA
+TU0-42590	relA
+TU0-14215	rsmC
+TU262	mobAB
+TU0-13105	yccA
+TU0-14154	yjfKLMC
+TU0-45225	frdABCD
+TU0-13045	ybhC
+TU0-13509	yegTUV
+TU0-45171	hyaABCDEF
+TU0-14775	glmY
+TU0-13443	['yecN', 'cmoAB']
+TU0-8281	rimJ
+TU0-14673	groL
+TU00204	speAB
+TU0-7781	yrbL
+TU0-13790	yqfB
+TU00148	dsdXA
+TU0-42690	yihUTS
+TU0-13730	ygcS
+TU482	['garPLRK', 'rnpB']
+TU0-42566	mepS
+TU0-14198	hypT
+TU123	putP
+TU0-13087	['ycaI', 'msbA', 'lpxK', 'ycaQ']
+TU0-14134	adiC
+TU0-45210	glnS
+TU0-13029	ybfL
+TU0-13490	plaP
+TU0-13427	letAB
+TU0-14745	mdh
+TU0-14650	rpoS
+TU0-8203	yggE
+TU0-7541	evgAS
+TU-8401	yejO
+TU00131	melAB
+TU00188	fpr
+TU0-13713	ygaZH
+TU0-13774	ygeX
+TU0-42538	fabF
+TU0-42642	['rpoE', 'rseABC']
+TU00517	['metY', 'yhbC', 'nusA', 'infB']
+TU363	['napFDAGHBC', 'ccmABCDEFGH']
+TU0-14118	dusA
+TU0-14178	intB
+TU0-13011	['ybeR', 'djlB']
+TU0-13071	ybjL
+TU0-13411	yeaVW
+TU0-45195	['cbpA', 'cbpM']
+TU0-14632	yeaGH
+TU0-13471	mtfA
+TU0-7202	hcaEFCBD
+TU0-14704	['tolC', 'ygiBC']
+TU00115	betIBA
+TU0-8083	pgk
+TU0-13695	['yfjR', 'ypjK', 'yfjS', 'yfjT']
+TU-8382	ycaC
+TU0-42514	tnaC
+TU00172	glnHPQ
+TU0-8716	yecF
+TU0-13757	yqeF
+TU00501	pheV
+TU0-42602	accA
+TU0-14097	['fabR', 'yijD']
+TU306	kdsA
+TU0-14162	cysQ
+TU0-13393	ydjF
+TU0-13053	ybiI
+TU0-14611	ecpBCDE
+TU0-45179	galETKM
+TU0-7001	gcd
+TU0-13452	sdiA
+TU00098	araFGH
+TU0-14681	['dksA', 'yadB']
+TU0-13677	raiAZ
+TU0-7821	pagP
+TU0-42491	btsT
+TU00156	narXL
+TU0-8699	ydbK
+TU0-13739	ppnN
+TU00485	pyrLBI
+TU0-42578	galE
+TU0-14074	yiiG
+TU183	fimE
+TU0-12976	ybcQ
+TU0-14145	ecnAB
+TU877	['rpe', 'gph', 'trpS']
+TU0-13376	ydiE
+TU0-13435	ptrB
+TU0-14559	['osmF', 'yehYXW']
+TU0-14662	kup
+TU0-6822	cstA
+TU0-7681	['nohA', 'stfQ', 'tfaQ']
+TU00082	purEK
+TU00139	hns
+TU0-13658	suhB
+TU0-13722	ygbLM
+TU0-42467	sdiA
+TU0-42551	feaB
+TU0-8682	ycdT
+TU00526	rseABC
+TU00469	glgCAP
+TU0-14126	gltP
+TU0-14057	yihD
+TU0-13021	chiZPQ
+TU0-12959	ybbAP
+TU0-13419	yobD
+TU802	['yjeFE', 'amiB', 'mutL', 'miaA', 'hfq', 'hflXKC']
+TU0-14642	cysK
+TU0-13360	ydhC
+TU0-7342	tktB
+TU0-14535	['ykfGH', 'yafW', 'ykfI']
+TU00123	['malK', 'lamB', 'malM']
+TU0-6648	dnaQ
+TU0-13703	ypjC
+TU00066	sulA
+TU0-42526	leuE
+TU0-13640	aegA
+TU0-8724	yegI
+TU0-42448	yciT
+TU00509	serT
+TU0-8663	ytfB
+TU0-14108	yjbD
+TU00451	['yecM', 'cutC']
+TU0-13003	tatE
+TU0-14041	yzcX
+TU0-13403	yeaK
+TU0-12939	ybaA
+TU0-14619	clsC
+TU781	cedA
+TU0-7141	['bdm', 'sra']
+TU0-13343	mdtUJI
+TU00107	icd
+TU0-14515	tcyJ
+TU0-13686	smpB
+TU0-6581	['kbaZ', 'agaVWA']
+TU0-42503	ssrA
+TU00050	ompF
+TU0-8707	ydgC
+TU0-13623	ucpA
+TU00493	valVW
+TU0-41842	ydiY
+TU0-14087	priA
+TU0-8646	yoaI
+TU0-12987	ybdF
+TU00434	['rpsU', 'dnaG', 'rpoD']
+TU0-13384	tcyP
+TU0-14023	yidZ
+TU0-14573	['secG', 'leuU']
+TU0-12919	yajD
+TU0-6886	argE
+TU66	phoPQ
+TU00090	ilvC
+TU0-13326	ydfV
+TU0-13667	['pgpC', 'tadA']
+TU0-14493	yggDC
+TU0-42478	leuLABCD
+TU0-6512	['rplKAJL', 'rpoBC']
+TU0-8690	ychN
+TU00034	katG
+TU00477	ompC
+TU0-13606	ypdJ
+TU0-14066	yihQ
+TU0-4141	dsbC
+TU0-12967	sfmCD
+TU0-8629	yjjX
+TU869	['yajC', 'secDF']
+TU00417	dnaKJ
+TU0-13368	['ydiJ', 'menI', 'ydiH']
+TU0-14008	setC
+TU0-14548	['hfq', 'hflXKC']
+TU0-12900	mhpT
+TU0-6660	['rpsO', 'pnp']
+TU564	['rpsA', 'ihfB']
+TU00074	ahpCF
+TU0-13308	dgcZ
+TU0-13649	yfgJ
+TU0-14470	['ybeD', 'lipB']
+TU0-42458	csrA
+TU0-6481	adk
+TU0-8673	ycaK
+TU00018	deoCABD
+TU00460	fecIR
+TU0-13589	['folX', 'yfcH']
+TU0-14049	['pldB', 'yigL']
+TU0-36442	dgkA
+TU0-12947	apt
+TU0-8611	queG
+TU791	xapR
+TU00400	htpX
+TU0-13352	cnu
+TU0-13993	yibL
+TU0-14525	['rfaZ', 'waaU']
+TU0-12882	['eaeH', 'insE1EF1F1']
+TU0-6629	ssuEADCB
+TU0-13291	ydeM
+TU00058	purMN
+TU0-14447	ftsK
+TU0-13632	yffQR
+TU0-6363	ybhK
+TU0-4202	hemA
+TU00002	alkA
+TU0-8654	yqgD
+TU0-13573	rbn
+TU00443	['epd', 'pgk']
+TU0-964	mpl
+TU0-14032	kup
+TU0-13570	pmrD
+TU0-12931	ybaV
+TU0-36413	['alaA', 'yfbR']
+TU686	['hyfABCDEFGHIJR', 'focB']
+TU0-8591	yiaT
+TU0-13334	ynfA
+TU00381	pflB
+TU0-14503	aceK
+TU0-13973	rdlD
+TU0-6554	pabA
+TU0-12863	ykfC
+TU00042	metH
+TU0-13270	ydcY
+TU0-13614	['fryBC', 'ypdFE', 'fryA']
+TU0-1441	fliLMNOPQR
+TU0-41760	['ydbK', 'ompN']
+TU0-5881	ubiEJB
+TU0-8638	yncE
+TU0-8864	['pdxH', 'tyrS', 'pdxY']
+TU00426	rpoH
+TU0-13554	bcr
+TU0-14016	['glvCBG', 'ysdC']
+TU0-3484	yfeYX
+TU0-12910	insE2F2EF2
+TU0-8574	yhbO
+TU592	['yiaKLMNO', 'lyx', 'sgbHUE']
+TU00364	tehAB
+TU0-13318	['ynfO', 'ydfO']
+TU0-13952	['yhiI', 'rbbA', 'yhhJ']
+TU0-14484	rnlA
+TU0-12844	yafT
+TU0-6504	glnS
+TU0-13253	cybB
+TU00026	galETKM
+TU0-14389	mreB
+TU0-13598	yfdF
+TU0-5561	['mutY', 'yggX', 'mltC', 'nupG']
+TU0-3882	proP
+TU0-8838	intG
+TU0-8620	yjgN
+TU0-13535	yohJK
+TU00408	mngR
+TU0-3305	['infC', 'rpmI', 'rplT']
+TU0-14000	htrL
+TU0-8557	ybcY
+TU0-12890	yahB
+TU00347	['rpsJ', 'rplCDWB', 'rpsS', 'rplV', 'rpsC', 'rplP', 'rpmC', 'rpsQ']
+TU0-13300	tam
+TU0-13934	yzgL
+TU0-14460	rpoD
+TU0-12826	yaeI
+TU0-6422	amn
+TU0-13235	['ynaA', 'lomR']
+TU00010	aroH
+TU0-14368	ybiB
+TU0-13581	yfbS
+TU0-5201	['pdxA', 'rsmA', 'apaGH']
+TU0-36427	['mhpR', 'lacI']
+TU0-8822	mrcA
+TU0-8602	yifB
+TU0-13517	yehE
+TU00392	csgDEFG
+TU0-3101	emrKY
+TU0-13985	ysaA
+TU0-8541	yafC
+TU0-12874	intF
+TU00328	rcsC
+TU0-12871	yagK
+TU0-13917	slyD
+TU0-13279	ydcC
+TU0-1281	['uof', 'fur']
+TU0-14421	ohsC
+TU0-13218	mppA
+TU0-6003	yidQ
+TU0-14347	yfgA
+TU0-9	yehF
+TU0-5001	ibpB
+TU0-13562	atoSC
+TU0-8807	guaC
+TU0-36398	glnD
+TU0-2505	topA
+TU0-8583	panZ
+TU0-8523	ybaP
+TU00372	uxaB
+TU00310	nuoABCEFGHIJKLMN
+TU0-13964	mdtEF
+TU0-13899	yhcN
+TU0-12853	['dinB', 'yafNOP']
+TU0-12792	yaaW
+TU0-13261	ydcL
+TU0-14326	yqgB
+TU0-14399	dapB
+TU0-13199	pgpB
+TU0-5621	arcB
+TU0-4823	gabDTP
+TU0-8846	ldrD
+TU0-8784	ddlA
+TU0-13546	psuKG
+TU0-2121	['rimK', 'ybjN']
+TU0-3423	bamE
+TU0-8505	rluF
+TU0-8565	ybhD
+TU00292	kdpDE
+TU00356	['ydjA', 'selD', 'topB']
+TU0-13882	yhbX
+TU0-13944	yhhQ
+TU0-1193	['dnaN', 'recF']
+TU0-12836	yaeF
+TU0-14307	ygdD
+TU0-13244	ydbA
+TU0-13178	ycgV
+TU0-14376	gspAB
+TU0-4604	znuCB
+TU0-5402	malZ
+TU0-8764	acpH
+TU0-8830	insG
+TU0-198687	stfZ
+TU0-13526	btsSR
+TU0-8489	pepN
+TU0-3145	xdhABC
+TU00275	fliFGHIJK
+TU0-8549	yahO
+TU0-13866	yhaH
+TU00337	['rplNXE', 'rpsNH', 'rplFR', 'rpsE', 'rpmD', 'rplO', 'secY', 'rpmJ']
+TU0-45157	ibsC
+TU0-13926	hofQ
+TU0-1123	moaABCDE
+TU0-12818	yadC
+TU0-14290	['yrbG', 'kdsD']
+TU0-13227	racC
+TU0-13161	['ymgA', 'ariR']
+TU0-14356	dfp
+TU0-45276	asr
+TU0-5101	gnd
+TU0-8747	ygdI
+TU0-8814	nudG
+TU0-1783	metK
+TU0-2661	narU
+TU0-8472	argA
+TU0-8533	ubiF
+TU00258	['def', 'fmt']
+TU00320	pntAB
+TU0-13848	folB
+TU0-13907	yhdV
+TU0-4461	garD
+TU0-12801	djlA
+TU-8441	ytfE
+TU0-13210	puuDRCBE
+TU0-14257	['thrS', 'infC', 'rpmI', 'rplT', 'pheMST', 'ihfA']
+TU0-14339	['uppS', 'cdsA']
+TU0-13143	['ymfA', 'ycfZ']
+TU0-4924	idnR
+TU0-45260	pgi
+TU0-8794	fadR
+TU0-8731	yfbK
+TU0-2441	treR
+TU0-1547	['tar', 'tap', 'cheRBYZ']
+TU0-8514	sraA
+TU0-8362	['pcnB', 'folK']
+TU00302	moeAB
+TU00242	ascG
+TU0-13891	yhcC
+TU0-13831	ygiS
+TU0-1261	chpSB
+TU0-44212	xapB
+TU0-14317	wbbIJK
+TU0-14238	yeiW
+TU0-13188	yciI
+TU0-13126	yceJI
+TU0-4703	lacZYA
+TU0-45245	['pcnB', 'folK']
+TU0-8774	can
+TU0-14813	pfkA
+TU0-2	recN
+TU0-8343	['scpA', 'argK', 'scpBC']
+TU0-8497	rdlB
+TU00226	argE
+TU00283	hemCDXY
+TU0-13815	yghJ
+TU0-13874	yraIJK
+TU0-44197	allB
+TU0-1184	['rrsC', 'gltU', 'rrlC', 'rrfC']
+TU0-1422	ftsAZ
+TU0-14299	nhaR
+TU0-13110	['ymcE', 'gnsA']
+TU0-13170	ycgM
+TU0-4523	gntR
+TU0-45284	bolA
+TU0-13514	rcnAB
+TU0-8756	ygiH
+TU0-14786	actP
+TU0-1902	dcuD
+TU0-8324	narK
+TU0-8480	erpA
+TU00209	zwf
+TU00266	fabHDG
+TU0-13796	yqfE
+TU0-13857	ygjQ
+TU0-42698	fucU
+TU0-45143	appY
+TU488	hupB
+TU0-1022	nrdHIEF
+TU0-14203	['mdtM', 'yjiN']
+TU0-14274	smg
+TU0-13093	asnS
+TU0-13152	['stfE', 'tfaE']
+TU0-45215	pstS
+TU0-45268	gadAX
+TU0-13495	ugd
+TU0-8739	yfgO
+TU0-14759	['tsaE', 'amiB', 'mutL', 'miaA', 'hfq', 'hflXKC']
+TU0-1701	asr
+TU0-8242	ruvC
+TU0-8380	lpp
+TU-8412	['gltIJKL', 'sroC']
+TU00250	chpSB
+TU00193	mtlADR
+TU0-13839	['sroG', 'ribB']
+TU0-13779	yqeC
+TU0-44221	uhpB
+TU0-42662	['infA', 'serW']
+TU-8428	ydhIJK
+TU401	glpEGR
+TU0-14246	ybdR
+TU0-14185	['insN', '2']
+TU0-13134	rluC
+TU0-13076	lysO
+TU0-45252	gpmA
+TU0-45200	dps
+TU0-14821	eno
+TU0-13478	ldtA
+TU0-8352	bssS
+TU0-14718	gadW
+TU00234	acrEF
+TU0-8145	yiaG
+TU0-13823	['yqhD', 'dkgA']
+TU-8388	recC
+TU0-44205	paaJ
+TU00177	['ompR', 'envZ']
+TU0-14228	coaA
+TU0-13762	ygeG
+TU0-13118	['ymdE', 'ycdU']
+TU0-42612	exuR
+TU0-45237	['pstB', 'phoU']
+TU346	arcA
+TU0-14798	['selD', 'topB']
+TU0-14167	tldE
+TU0-8334	ldtB
+TU0-13059	['mntR', 'ybiR']
+TU00218	metF
+TU0-45184	cyaR
+TU0-13806	yqgEF
+TU0-13458	yedN
+TU0-4401	yaiS
+TU0-14689	['ssrS', 'ygfA']
+TU521	['relA', 'mazEF']
+TU0-7861	['lsrACDBFG', 'tam']
+TU0-14211	lgoR
+TU00161	fruBKA
+TU0-13102	hspQ
+TU0-13744	['ptrA', 'recBD']
+TU0-45222	['pdhR', 'aceEF', 'lpdA']
+TU0-42584	galETK
+TU0-13505	trhP
+TU25	eda
+TU0-14769	ykgR
+TU0-14151	orn
+TU0-8265	ybfE
+TU0-13042	ybhH
+TU00201	phnCDEEFGHIJKLMNOP
+TU0-45168	['mnmG', 'rsmG']
+TU0-13787	xerD
+TU0-13440	pykA
+TU0-42686	yihUTS
+TU0-14670	alr
+TU443	['fabG', 'acpP']
+TU0-7744	yegRZ
+TU0-14194	yjhP
+TU00144	cysPUWAM
+TU0-13084	ycaO
+TU0-13727	queD
+TU0-45208	gor
+TU0-42561	degS
+TU0-13487	sbmC
+TU104	putP
+TU0-14741	pepA
+TU0-14131	yjdN
+TU0-8182	gloA
+TU0-13026	['rhsC', 'ybfB']
+TU-8397	greA
+TU0-13423	yebO
+TU00185	lysA
+TU0-14647	yfgM
+TU0-13770	glyU
+TU0-7461	amyA
+TU0-42636	['rpoE', 'rseABC']
+TU00128	fucPIKUR
+TU359	cutA
+TU0-13710	ygaVP
+TU0-14175	pepA
+TU0-42534	['nemRA', 'gloA']
+TU0-13067	deoR
+TU00514	alaWX
+TU0-45192	sixA
+TU0-14115	dgkA
+TU0-13468	['hiuH', 'msrPQ']
+TU0-13008	dacA
+TU0-14699	cmr
+TU0-13409	dmlR
+TU0-8061	tpiA
+TU0-14629	['tyrS', 'pdxY']
+TU00169	gatYZABCD
+TU0-7181	['istR', '2']
+TU0-13754	ygeA
+TU00112	asnA
+TU0-42596	['yibN', 'grxC', 'secB', 'gpsA']
+TU0-13692	abpAB
+TU301	xapAB
+TU0-42511	hisL
+TU0-14159	cycA
+TU0-8713	yeaM
+TU0-13050	['cecR', 'ybhGFSR']
+TU00498	asnU
+TU0-45176	galETK
+TU0-14092	frwCB
+TU0-13449	ftnA
+TU0-12992	ybdM
+TU0-14678	artPIQM
+TU0-13390	ynjI
+TU0-7804	rob
+TU0-14609	['uppS', 'cdsA']
+TU00153	hycABCDEFGHI
+TU0-6982	cspB
+TU0-13736	['yqcC', 'truC', 'yqcA']
+TU00095	aidB
+TU0-42573	lapAB
+TU0-13673	yfiM
+TU163	['ompR', 'envZ']
+TU0-42483	rmf
+TU0-14141	yjeI
+TU0-8696	ydaL
+TU0-13034	['valZ', 'lysY']
+TU00482	['ptsHI', 'crr']
+TU0-13432	['yobA', 'yebZY']
+TU0-14071	yiiE
+TU0-14656	['ubiT', 'yhbS']
+TU0-12973	ybcK
+TU0-7603	['gcl', 'hyi', 'glxR', 'ybbVW', 'allB', 'ybbY', 'glxK']
+TU874	['damX', 'dam', 'rpe', 'gph', 'trpS']
+TU00136	flhDC
+TU0-13373	['ydiNB', 'aroD']
+TU0-13719	mltB
+TU0-14553	['glnW', 'metU', 'glnVX']
+TU0-42547	feaR
+TU0-6687	valS
+TU00522	['pdhR', 'aceEF', 'lpdA']
+TU00079	cysK
+TU0-14123	ghxP
+TU0-13655	sseB
+TU0-13016	['ybeX', 'lnt']
+TU0-42463	ddpXABCDF
+TU0-13416	yoaC
+TU0-8679	yccR
+TU0-14637	sbmC
+TU00466	ppiA
+TU0-7301	kdgK
+TU0-14054	ubiD
+TU00120	cpdB
+TU0-12955	cueR
+TU0-13700	ypjA
+TU796	acnB
+TU0-42519	tatABC
+TU0-13357	ydhF
+TU0-8721	yegD

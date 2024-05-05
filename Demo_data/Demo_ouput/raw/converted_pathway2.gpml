@@ -1,0 +1,356 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Pathway xmlns="http://pathvisio.org/GPML/2013a" Name="Transformation_Path" Version="20231027" Organism="Escherichia coli">
+	<Graphics BoardWidth="1787.3212301142007" BoardHeight="1113.0655571368297"/>
+	<DataNode TextLabel="nrdR" GraphId="EG11320" Type="Protein">
+		<Graphics CenterX="716.9215795769" CenterY="453.654726725" Width="56.296055796056066" Height="37.51803751803743" ZOrder="32768" FillColor="ff6600" FontWeight="Bold" FontStyle="Italic" FontSize="14" Valign="Middle" ShapeType="RoundedRectangle" Color="ffffff"/>
+		<Xref Database="BioCyc" ID="EG11320"/>
+	</DataNode>
+	<DataNode TextLabel="yhaJ" GraphId="G7619" Type="Protein">
+		<Graphics CenterX="599.3146006615" CenterY="429.5474280863" Width="56.296055796056066" Height="37.51803751803743" ZOrder="32768" FillColor="ff6600" FontWeight="Bold" FontStyle="Italic" FontSize="14" Valign="Middle" ShapeType="RoundedRectangle" Color="ffffff"/>
+		<Xref Database="BioCyc" ID="G7619"/>
+	</DataNode>
+	<DataNode TextLabel="bglJ" GraphId="G7948" Type="Protein">
+		<Graphics CenterX="969.4376657358" CenterY="541.4296317632" Width="56.296055796056066" Height="37.51803751803743" ZOrder="32768" FillColor="ff6600" FontWeight="Bold" FontStyle="Italic" FontSize="14" Valign="Middle" ShapeType="RoundedRectangle" Color="ffffff"/>
+		<Xref Database="BioCyc" ID="G7948"/>
+	</DataNode>
+	<DataNode TextLabel="RcsB-BglJ" GraphId="G7948_EG10821" Type="Protein">
+		<Graphics CenterX="421.6632850104" CenterY="692.6488166145" Width="56.296055796056066" Height="37.51803751803743" ZOrder="32768" FillColor="ff6600" FontWeight="Bold" FontStyle="Italic" FontSize="14" Valign="Middle" ShapeType="RoundedRectangle" Color="ffffff"/>
+		<Xref Database="BioCyc" ID="G7948_EG10821"/>
+	</DataNode>
+	<DataNode TextLabel="rcsB" GraphId="EG10821" Type="Protein">
+		<Graphics CenterX="418.4816350809" CenterY="944.4403103524" Width="56.296055796056066" Height="37.51803751803743" ZOrder="32768" FillColor="ff6600" FontWeight="Bold" FontStyle="Italic" FontSize="14" Valign="Middle" ShapeType="RoundedRectangle" Color="ffffff"/>
+		<Xref Database="BioCyc" ID="EG10821"/>
+	</DataNode>
+	<DataNode TextLabel="FlhDC" GraphId="EG10320" Type="Protein">
+		<Graphics CenterX="930.2315016479" CenterY="544.5685150701" Width="56.296055796056066" Height="37.51803751803743" ZOrder="32768" FillColor="ff6600" FontWeight="Bold" FontStyle="Italic" FontSize="14" Valign="Middle" ShapeType="RoundedRectangle" Color="ffffff"/>
+		<Xref Database="BioCyc" ID="EG10320"/>
+	</DataNode>
+	<DataNode TextLabel="qseB" GraphId="G7575" Type="Protein">
+		<Graphics CenterX="911.9241510975" CenterY="586.6285819253" Width="56.296055796056066" Height="37.51803751803743" ZOrder="32768" FillColor="ff6600" FontWeight="Bold" FontStyle="Italic" FontSize="14" Valign="Middle" ShapeType="RoundedRectangle" Color="ffffff"/>
+		<Xref Database="BioCyc" ID="G7575"/>
+	</DataNode>
+	<DataNode TextLabel="soxR" GraphId="EG10957" Type="Protein">
+		<Graphics CenterX="398.7846141783" CenterY="413.9287661939" Width="56.296055796056066" Height="37.51803751803743" ZOrder="32768" FillColor="ff6600" FontWeight="Bold" FontStyle="Italic" FontSize="14" Valign="Middle" ShapeType="RoundedRectangle" Color="ffffff"/>
+		<Xref Database="BioCyc" ID="EG10957"/>
+	</DataNode>
+	<DataNode TextLabel="fliZ" GraphId="EG11356" Type="Protein">
+		<Graphics CenterX="525.8251013388" CenterY="193.0677960102" Width="56.296055796056066" Height="37.51803751803743" ZOrder="32768" FillColor="ff6600" FontWeight="Bold" FontStyle="Italic" FontSize="14" Valign="Middle" ShapeType="RoundedRectangle" Color="ffffff"/>
+		<Xref Database="BioCyc" ID="EG11356"/>
+	</DataNode>
+	<DataNode TextLabel="gadE" GraphId="EG11544" Type="Protein">
+		<Graphics CenterX="327.3309039525" CenterY="101.66398184" Width="56.296055796056066" Height="37.51803751803743" ZOrder="32768" FillColor="ff6600" FontWeight="Bold" FontStyle="Italic" FontSize="14" Valign="Middle" ShapeType="RoundedRectangle" Color="ffffff"/>
+		<Xref Database="BioCyc" ID="EG11544"/>
+	</DataNode>
+	<DataNode TextLabel="RcsAB" GraphId="EG10820" Type="Protein">
+		<Graphics CenterX="125.83193532" CenterY="246.0096712725" Width="56.296055796056066" Height="37.51803751803743" ZOrder="32768" FillColor="ff6600" FontWeight="Bold" FontStyle="Italic" FontSize="14" Valign="Middle" ShapeType="RoundedRectangle" Color="ffffff"/>
+		<Xref Database="BioCyc" ID="EG10820"/>
+	</DataNode>
+	<DataNode TextLabel="GadE-RcsB" GraphId="EG10821_EG11544" Type="Protein">
+		<Graphics CenterX="513.5439681198" CenterY="163.2775676483" Width="56.296055796056066" Height="37.51803751803743" ZOrder="32768" FillColor="ff6600" FontWeight="Bold" FontStyle="Italic" FontSize="14" Valign="Middle" ShapeType="RoundedRectangle" Color="ffffff"/>
+		<Xref Database="BioCyc" ID="EG10821_EG11544"/>
+	</DataNode>
+	<DataNode TextLabel="alpA" GraphId="EG12112" Type="Protein">
+		<Graphics CenterX="516.8132153683" CenterY="802.0996199671" Width="56.296055796056066" Height="37.51803751803743" ZOrder="32768" FillColor="ff6600" FontWeight="Bold" FontStyle="Italic" FontSize="14" Valign="Middle" ShapeType="RoundedRectangle" Color="ffffff"/>
+		<Xref Database="BioCyc" ID="EG12112"/>
+	</DataNode>
+	<DataNode TextLabel="phoB" GraphId="EG10728" Type="Protein">
+		<Graphics CenterX="579.4398520771" CenterY="513.4845706031" Width="56.296055796056066" Height="37.51803751803743" ZOrder="32768" FillColor="ff6600" FontWeight="Bold" FontStyle="Italic" FontSize="14" Valign="Middle" ShapeType="RoundedRectangle" Color="ffffff"/>
+		<Xref Database="BioCyc" ID="EG10728"/>
+	</DataNode>
+	<DataNode TextLabel="cusR" GraphId="G6319" Type="Protein">
+		<Graphics CenterX="784.8479602105" CenterY="818.5575827411" Width="56.296055796056066" Height="37.51803751803743" ZOrder="32768" FillColor="ff6600" FontWeight="Bold" FontStyle="Italic" FontSize="14" Valign="Middle" ShapeType="RoundedRectangle" Color="ffffff"/>
+		<Xref Database="BioCyc" ID="G6319"/>
+	</DataNode>
+	<DataNode TextLabel="cra" GraphId="EG10338" Type="Protein">
+		<Graphics CenterX="252.1371139394" CenterY="382.0441267698" Width="56.296055796056066" Height="37.51803751803743" ZOrder="32768" FillColor="ff6600" FontWeight="Bold" FontStyle="Italic" FontSize="14" Valign="Middle" ShapeType="RoundedRectangle" Color="ffffff"/>
+		<Xref Database="BioCyc" ID="EG10338"/>
+	</DataNode>
+	<DataNode TextLabel="sxy" GraphId="G6494" Type="Protein">
+		<Graphics CenterX="389.7586763766" CenterY="636.5168332204" Width="56.296055796056066" Height="37.51803751803743" ZOrder="32768" FillColor="ff6600" FontWeight="Bold" FontStyle="Italic" FontSize="14" Valign="Middle" ShapeType="RoundedRectangle" Color="ffffff"/>
+		<Xref Database="BioCyc" ID="G6494"/>
+	</DataNode>
+	<DataNode TextLabel="soxS" GraphId="EG10958" Type="Protein">
+		<Graphics CenterX="736.236938925" CenterY="706.6660636636" Width="56.296055796056066" Height="37.51803751803743" ZOrder="32768" FillColor="ff6600" FontWeight="Bold" FontStyle="Italic" FontSize="14" Valign="Middle" ShapeType="RoundedRectangle" Color="ffffff"/>
+		<Xref Database="BioCyc" ID="EG10958"/>
+	</DataNode>
+	<DataNode TextLabel="fur" GraphId="EG10359" Type="Protein">
+		<Graphics CenterX="426.4493297967" CenterY="783.4362498945" Width="56.296055796056066" Height="37.51803751803743" ZOrder="32768" FillColor="ff6600" FontWeight="Bold" FontStyle="Italic" FontSize="14" Valign="Middle" ShapeType="RoundedRectangle" Color="ffffff"/>
+		<Xref Database="BioCyc" ID="EG10359"/>
+	</DataNode>
+	<DataNode TextLabel="fnr" GraphId="EG10325" Type="Protein">
+		<Graphics CenterX="732.2364705081" CenterY="950.2775681424" Width="56.296055796056066" Height="37.51803751803743" ZOrder="32768" FillColor="ff6600" FontWeight="Bold" FontStyle="Italic" FontSize="14" Valign="Middle" ShapeType="RoundedRectangle" Color="ffffff"/>
+		<Xref Database="BioCyc" ID="EG10325"/>
+	</DataNode>
+	<DataNode TextLabel="lrp" GraphId="EG10547" Type="Protein">
+		<Graphics CenterX="437.0847758546" CenterY="427.9934470181" Width="56.296055796056066" Height="37.51803751803743" ZOrder="32768" FillColor="ff6600" FontWeight="Bold" FontStyle="Italic" FontSize="14" Valign="Middle" ShapeType="RoundedRectangle" Color="ffffff"/>
+		<Xref Database="BioCyc" ID="EG10547"/>
+	</DataNode>
+	<DataNode TextLabel="yciT" GraphId="G6638" Type="Protein">
+		<Graphics CenterX="501.9332250709" CenterY="246.954625378" Width="56.296055796056066" Height="37.51803751803743" ZOrder="32768" FillColor="ff6600" FontWeight="Bold" FontStyle="Italic" FontSize="14" Valign="Middle" ShapeType="RoundedRectangle" Color="ffffff"/>
+		<Xref Database="BioCyc" ID="G6638"/>
+	</DataNode>
+	<DataNode TextLabel="malT" GraphId="EG10562" Type="Protein">
+		<Graphics CenterX="545.8101198891" CenterY="670.1192950053" Width="56.296055796056066" Height="37.51803751803743" ZOrder="32768" FillColor="ff6600" FontWeight="Bold" FontStyle="Italic" FontSize="14" Valign="Middle" ShapeType="RoundedRectangle" Color="ffffff"/>
+		<Xref Database="BioCyc" ID="EG10562"/>
+	</DataNode>
+	<DataNode TextLabel="purR" GraphId="EG10800" Type="Protein">
+		<Graphics CenterX="118.3931440771" CenterY="709.0329059806" Width="56.296055796056066" Height="37.51803751803743" ZOrder="32768" FillColor="ff6600" FontWeight="Bold" FontStyle="Italic" FontSize="14" Valign="Middle" ShapeType="RoundedRectangle" Color="ffffff"/>
+		<Xref Database="BioCyc" ID="EG10800"/>
+	</DataNode>
+	<DataNode TextLabel="zntR" GraphId="EG11969" Type="Protein">
+		<Graphics CenterX="624.7676445286" CenterY="573.4666524735" Width="56.296055796056066" Height="37.51803751803743" ZOrder="32768" FillColor="ff6600" FontWeight="Bold" FontStyle="Italic" FontSize="14" Valign="Middle" ShapeType="RoundedRectangle" Color="ffffff"/>
+		<Xref Database="BioCyc" ID="EG11969"/>
+	</DataNode>
+	<DataNode TextLabel="mlrA" GraphId="EG12008" Type="Protein">
+		<Graphics CenterX="235.7775927295" CenterY="699.1221804705" Width="56.296055796056066" Height="37.51803751803743" ZOrder="32768" FillColor="ff6600" FontWeight="Bold" FontStyle="Italic" FontSize="14" Valign="Middle" ShapeType="RoundedRectangle" Color="ffffff"/>
+		<Xref Database="BioCyc" ID="EG12008"/>
+	</DataNode>
+	<DataNode TextLabel="csgD" GraphId="G6546" Type="Protein">
+		<Graphics CenterX="642.3720497984" CenterY="707.6375310997" Width="56.296055796056066" Height="37.51803751803743" ZOrder="32768" FillColor="ff6600" FontWeight="Bold" FontStyle="Italic" FontSize="14" Valign="Middle" ShapeType="RoundedRectangle" Color="ffffff"/>
+		<Xref Database="BioCyc" ID="G6546"/>
+	</DataNode>
+	<DataNode TextLabel="argR" GraphId="EG10070" Type="Protein">
+		<Graphics CenterX="881.1304819449" CenterY="174.8713021562" Width="56.296055796056066" Height="37.51803751803743" ZOrder="32768" FillColor="ff6600" FontWeight="Bold" FontStyle="Italic" FontSize="14" Valign="Middle" ShapeType="RoundedRectangle" Color="ffffff"/>
+		<Xref Database="BioCyc" ID="EG10070"/>
+	</DataNode>
+	<Interaction GraphId="i425.5643018475">
+		<Graphics ZOrder="32821" LineThickness="2.0" Color="333333">
+			<Point X="208.6178702782" Y="747.1530097326" GraphRef="G7948" RelX="0.5" RelY="1.0"/>
+			<Point X="970.9727817438" Y="902.3997825611" GraphRef="G7948_EG10821" RelX="-0.5" RelY="-1.0" ArrowHead="Arrow"/>
+		</Graphics>
+		<Xref Database="BioCyc" ID=""/>
+	</Interaction>
+	<Interaction GraphId="i114.7217226406">
+		<Graphics ZOrder="32821" LineThickness="2.0" Color="333333">
+			<Point X="502.8542680598" Y="722.1705559863" GraphRef="G7948" RelX="0.5" RelY="1.0"/>
+			<Point X="132.7126144035" Y="756.789734857" GraphRef="G7948_EG10821" RelX="-0.5" RelY="-1.0" ArrowHead="Arrow"/>
+		</Graphics>
+		<Xref Database="BioCyc" ID=""/>
+	</Interaction>
+	<Interaction GraphId="i539.8424677711">
+		<Graphics ZOrder="32821" LineThickness="2.0" Color="333333">
+			<Point X="140.8436118601" Y="704.4252063589" GraphRef="G7948_EG10821" RelX="0.5" RelY="1.0"/>
+			<Point X="140.9402996308" Y="831.5186404004" GraphRef="G7948" RelX="-0.5" RelY="-1.0" ArrowHead="Arrow"/>
+		</Graphics>
+		<Xref Database="BioCyc" ID=""/>
+	</Interaction>
+	<Interaction GraphId="i134.2451291392">
+		<Graphics ZOrder="32821" LineThickness="2.0" Color="333333">
+			<Point X="401.5314793009" Y="915.8840898485" GraphRef="G7948_EG10821" RelX="0.5" RelY="1.0"/>
+			<Point X="620.7739832253" Y="648.1794373603" GraphRef="EG10821" RelX="-0.5" RelY="-1.0" ArrowHead="Arrow"/>
+		</Graphics>
+		<Xref Database="BioCyc" ID=""/>
+	</Interaction>
+	<Interaction GraphId="i662.6724760373">
+		<Graphics ZOrder="32821" LineThickness="2.0" Color="333333">
+			<Point X="795.8268464328" Y="609.3277672297" GraphRef="G7948_EG10821" RelX="0.5" RelY="1.0"/>
+			<Point X="322.553266916" Y="981.1976301317" GraphRef="EG10821" RelX="-0.5" RelY="-1.0" ArrowHead="Arrow"/>
+		</Graphics>
+		<Xref Database="BioCyc" ID=""/>
+	</Interaction>
+	<Interaction GraphId="i708.9548620949">
+		<Graphics ZOrder="32821" LineThickness="2.0" Color="333333">
+			<Point X="227.0746743244" Y="236.2370748372" GraphRef="EG10821" RelX="0.5" RelY="1.0"/>
+			<Point X="278.3018950632" Y="679.9550300254" GraphRef="G7948_EG10821" RelX="-0.5" RelY="-1.0" ArrowHead="Arrow"/>
+		</Graphics>
+		<Xref Database="BioCyc" ID=""/>
+	</Interaction>
+	<Interaction GraphId="i950.7886835764">
+		<Graphics ZOrder="32821" LineThickness="2.0" Color="cc0033">
+			<Point X="459.330763793" Y="472.782251401" GraphRef="EG10821" RelX="0.5" RelY="1.0"/>
+			<Point X="248.6265058067" Y="937.5232829333" GraphRef="EG10320" RelX="-0.5" RelY="-1.0" ArrowHead="mim-stimulation"/>
+		</Graphics>
+		<Xref Database="BioCyc" ID=""/>
+	</Interaction>
+	<Interaction GraphId="i837.8431999275">
+		<Graphics ZOrder="32821" LineThickness="2.0" Color="333333">
+			<Point X="100.7183417419" Y="107.2059133729" GraphRef="EG10821" RelX="0.5" RelY="1.0"/>
+			<Point X="666.8365030586" Y="708.5049287419" GraphRef="EG10821_EG11544" RelX="-0.5" RelY="-1.0" ArrowHead="Arrow"/>
+		</Graphics>
+		<Xref Database="BioCyc" ID=""/>
+	</Interaction>
+	<Interaction GraphId="i913.4288701969">
+		<Graphics ZOrder="32821" LineThickness="2.0" Color="000099">
+			<Point X="425.6080918445" Y="694.5096741175" GraphRef="G7575" RelX="0.5" RelY="1.0"/>
+			<Point X="977.8296246135" Y="913.5686181583" GraphRef="EG10320" RelX="-0.5" RelY="-1.0" ArrowHead="Arrow"/>
+		</Graphics>
+		<Xref Database="BioCyc" ID=""/>
+	</Interaction>
+	<Interaction GraphId="i123.3843596469">
+		<Graphics ZOrder="32821" LineThickness="2.0" Color="000099">
+			<Point X="525.2241180048" Y="161.648782476" GraphRef="EG10957" RelX="0.5" RelY="1.0"/>
+			<Point X="752.8065536927" Y="755.5095975957" GraphRef="EG10958" RelX="-0.5" RelY="-1.0" ArrowHead="Arrow"/>
+		</Graphics>
+		<Xref Database="BioCyc" ID=""/>
+	</Interaction>
+	<Interaction GraphId="i690.0768175247">
+		<Graphics ZOrder="32821" LineThickness="2.0" Color="009933">
+			<Point X="161.6931847721" Y="974.8274147161" GraphRef="EG11356" RelX="0.5" RelY="1.0"/>
+			<Point X="964.6833905309" Y="741.6726104926" GraphRef="EG10320" RelX="-0.5" RelY="-1.0" ArrowHead="mim-inhibition"/>
+		</Graphics>
+		<Xref Database="BioCyc" ID=""/>
+	</Interaction>
+	<Interaction GraphId="i460.4931697758">
+		<Graphics ZOrder="32821" LineThickness="2.0" Color="009933">
+			<Point X="614.579814107" Y="423.9632428012" GraphRef="EG11356" RelX="0.5" RelY="1.0"/>
+			<Point X="610.9193114181" Y="603.1751849978" GraphRef="EG11544" RelX="-0.5" RelY="-1.0" ArrowHead="mim-inhibition"/>
+		</Graphics>
+		<Xref Database="BioCyc" ID=""/>
+	</Interaction>
+	<Interaction GraphId="i331.5673587455">
+		<Graphics ZOrder="32821" LineThickness="2.0" Color="009933">
+			<Point X="357.4775853005" Y="360.9205898148" GraphRef="EG11356" RelX="0.5" RelY="1.0"/>
+			<Point X="934.6942390164" Y="531.5441723052" GraphRef="EG10821_EG11544" RelX="-0.5" RelY="-1.0" ArrowHead="mim-inhibition"/>
+		</Graphics>
+		<Xref Database="BioCyc" ID=""/>
+	</Interaction>
+	<Interaction GraphId="i638.3087242874">
+		<Graphics ZOrder="32821" LineThickness="2.0" Color="cc0033">
+			<Point X="123.1479297588" Y="482.4520879397" GraphRef="EG11544" RelX="0.5" RelY="1.0"/>
+			<Point X="571.7818937904" Y="984.9706338472" GraphRef="EG10820" RelX="-0.5" RelY="-1.0" ArrowHead="mim-stimulation"/>
+		</Graphics>
+		<Xref Database="BioCyc" ID=""/>
+	</Interaction>
+	<Interaction GraphId="i589.0689543226">
+		<Graphics ZOrder="32821" LineThickness="2.0" Color="cc0033">
+			<Point X="466.9682159516" Y="958.8874238913" GraphRef="EG11544" RelX="0.5" RelY="1.0"/>
+			<Point X="965.0091232894" Y="536.8273105227" GraphRef="EG10821_EG11544" RelX="-0.5" RelY="-1.0" ArrowHead="mim-stimulation"/>
+		</Graphics>
+		<Xref Database="BioCyc" ID=""/>
+	</Interaction>
+	<Interaction GraphId="i868.2663071589">
+		<Graphics ZOrder="32821" LineThickness="2.0" Color="cc0033">
+			<Point X="598.9163564016" Y="665.4115542469" GraphRef="EG11544" RelX="0.5" RelY="1.0"/>
+			<Point X="627.4375145614" Y="340.7492499259" GraphRef="EG10547" RelX="-0.5" RelY="-1.0" ArrowHead="mim-stimulation"/>
+		</Graphics>
+		<Xref Database="BioCyc" ID=""/>
+	</Interaction>
+	<Interaction GraphId="i537.1232055281">
+		<Graphics ZOrder="32821" LineThickness="2.0" Color="cc0033">
+			<Point X="126.5095934421" Y="323.9116383482" GraphRef="EG10820" RelX="0.5" RelY="1.0"/>
+			<Point X="554.9109350313" Y="826.5080875165" GraphRef="EG10320" RelX="-0.5" RelY="-1.0" ArrowHead="mim-stimulation"/>
+		</Graphics>
+		<Xref Database="BioCyc" ID=""/>
+	</Interaction>
+	<Interaction GraphId="i658.6562209059">
+		<Graphics ZOrder="32821" LineThickness="2.0" Color="333333">
+			<Point X="369.3465273832" Y="542.2230200105" GraphRef="EG10821_EG11544" RelX="0.5" RelY="1.0"/>
+			<Point X="638.2533514964" Y="407.7638853573" GraphRef="EG10821" RelX="-0.5" RelY="-1.0" ArrowHead="Arrow"/>
+		</Graphics>
+		<Xref Database="BioCyc" ID=""/>
+	</Interaction>
+	<Interaction GraphId="i108.2036215942">
+		<Graphics ZOrder="32821" LineThickness="2.0" Color="333333">
+			<Point X="336.1556152059" Y="991.9380521096" GraphRef="EG10821_EG11544" RelX="0.5" RelY="1.0"/>
+			<Point X="456.535888473" Y="750.2124714266" GraphRef="EG11544" RelX="-0.5" RelY="-1.0" ArrowHead="Arrow"/>
+		</Graphics>
+		<Xref Database="BioCyc" ID=""/>
+	</Interaction>
+	<Interaction GraphId="i373.0965660659">
+		<Graphics ZOrder="32821" LineThickness="2.0" Color="333333">
+			<Point X="484.7587809358" Y="223.3918076883" GraphRef="EG10821_EG11544" RelX="0.5" RelY="1.0"/>
+			<Point X="817.1274626125" Y="852.9270342066" GraphRef="EG10821" RelX="-0.5" RelY="-1.0" ArrowHead="Arrow"/>
+		</Graphics>
+		<Xref Database="BioCyc" ID=""/>
+	</Interaction>
+	<Interaction GraphId="i775.6539616596">
+		<Graphics ZOrder="32821" LineThickness="2.0" Color="009933">
+			<Point X="537.3242626766" Y="692.2957817421" GraphRef="EG12112" RelX="0.5" RelY="1.0"/>
+			<Point X="491.8750357298" Y="982.4335201863" GraphRef="EG10728" RelX="-0.5" RelY="-1.0" ArrowHead="mim-inhibition"/>
+		</Graphics>
+		<Xref Database="BioCyc" ID=""/>
+	</Interaction>
+	<Interaction GraphId="i727.4202215082">
+		<Graphics ZOrder="32821" LineThickness="2.0" Color="cc0033">
+			<Point X="166.9051491753" Y="720.1104402623" GraphRef="EG10728" RelX="0.5" RelY="1.0"/>
+			<Point X="710.2745767624" Y="374.711156543" GraphRef="G6319" RelX="-0.5" RelY="-1.0" ArrowHead="mim-stimulation"/>
+		</Graphics>
+		<Xref Database="BioCyc" ID=""/>
+	</Interaction>
+	<Interaction GraphId="i440.7372421016">
+		<Graphics ZOrder="32821" LineThickness="2.0" Color="009933">
+			<Point X="680.1894965728" Y="738.9683550231" GraphRef="EG10728" RelX="0.5" RelY="1.0"/>
+			<Point X="890.8185047904" Y="703.857131101" GraphRef="EG10338" RelX="-0.5" RelY="-1.0" ArrowHead="mim-inhibition"/>
+		</Graphics>
+		<Xref Database="BioCyc" ID=""/>
+	</Interaction>
+	<Interaction GraphId="i155.4792891497">
+		<Graphics ZOrder="32821" LineThickness="2.0" Color="cc0033">
+			<Point X="210.1977741846" Y="122.1002393483" GraphRef="EG10338" RelX="0.5" RelY="1.0"/>
+			<Point X="514.9556161863" Y="267.2227822594" GraphRef="G6494" RelX="-0.5" RelY="-1.0" ArrowHead="mim-stimulation"/>
+		</Graphics>
+		<Xref Database="BioCyc" ID=""/>
+	</Interaction>
+	<Interaction GraphId="i772.7310046781">
+		<Graphics ZOrder="32821" LineThickness="2.0" Color="cc0033">
+			<Point X="228.2556718819" Y="476.0573213034" GraphRef="EG10958" RelX="0.5" RelY="1.0"/>
+			<Point X="461.9469471094" Y="274.3946755776" GraphRef="EG10359" RelX="-0.5" RelY="-1.0" ArrowHead="mim-stimulation"/>
+		</Graphics>
+		<Xref Database="BioCyc" ID=""/>
+	</Interaction>
+	<Interaction GraphId="i433.3480721444">
+		<Graphics ZOrder="32821" LineThickness="2.0" Color="009933">
+			<Point X="490.1924878327" Y="360.7069180609" GraphRef="EG10359" RelX="0.5" RelY="1.0"/>
+			<Point X="942.4371751064" Y="870.6067356261" GraphRef="EG10325" RelX="-0.5" RelY="-1.0" ArrowHead="mim-inhibition"/>
+		</Graphics>
+		<Xref Database="BioCyc" ID=""/>
+	</Interaction>
+	<Interaction GraphId="i888.4998947497">
+		<Graphics ZOrder="32821" LineThickness="2.0" Color="009933">
+			<Point X="993.1716161465" Y="875.063567687" GraphRef="EG10359" RelX="0.5" RelY="1.0"/>
+			<Point X="260.070739609" Y="785.4473405208" GraphRef="EG10800" RelX="-0.5" RelY="-1.0" ArrowHead="mim-inhibition"/>
+		</Graphics>
+		<Xref Database="BioCyc" ID=""/>
+	</Interaction>
+	<Interaction GraphId="i235.1768687592">
+		<Graphics ZOrder="32821" LineThickness="2.0" Color="009933">
+			<Point X="448.7525487503" Y="806.8511137588" GraphRef="EG10359" RelX="0.5" RelY="1.0"/>
+			<Point X="344.7856844512" Y="313.7337334902" GraphRef="EG10320" RelX="-0.5" RelY="-1.0" ArrowHead="mim-inhibition"/>
+		</Graphics>
+		<Xref Database="BioCyc" ID=""/>
+	</Interaction>
+	<Interaction GraphId="i505.3491765057">
+		<Graphics ZOrder="32821" LineThickness="2.0" Color="cc0033">
+			<Point X="120.166613956" Y="276.1209077846" GraphRef="EG10547" RelX="0.5" RelY="1.0"/>
+			<Point X="644.9463143822" Y="280.8198479053" GraphRef="G6638" RelX="-0.5" RelY="-1.0" ArrowHead="mim-stimulation"/>
+		</Graphics>
+		<Xref Database="BioCyc" ID=""/>
+	</Interaction>
+	<Interaction GraphId="i775.3203433105">
+		<Graphics ZOrder="32821" LineThickness="2.0" Color="000099">
+			<Point X="175.8944971172" Y="910.5005978524" GraphRef="EG10547" RelX="0.5" RelY="1.0"/>
+			<Point X="212.7352852799" Y="624.0379344506" GraphRef="EG10562" RelX="-0.5" RelY="-1.0" ArrowHead="Arrow"/>
+		</Graphics>
+		<Xref Database="BioCyc" ID=""/>
+	</Interaction>
+	<Interaction GraphId="i686.7963348522">
+		<Graphics ZOrder="32821" LineThickness="2.0" Color="cc0033">
+			<Point X="381.5006120812" Y="118.6958520088" GraphRef="EG10547" RelX="0.5" RelY="1.0"/>
+			<Point X="267.3051528478" Y="445.6096600823" GraphRef="EG11969" RelX="-0.5" RelY="-1.0" ArrowHead="mim-stimulation"/>
+		</Graphics>
+		<Xref Database="BioCyc" ID=""/>
+	</Interaction>
+	<Interaction GraphId="i485.2171551618">
+		<Graphics ZOrder="32821" LineThickness="2.0" Color="cc0033">
+			<Point X="223.441610649" Y="826.3483448265" GraphRef="EG10547" RelX="0.5" RelY="1.0"/>
+			<Point X="734.3682902088" Y="562.217845742" GraphRef="EG10070" RelX="-0.5" RelY="-1.0" ArrowHead="mim-stimulation"/>
+		</Graphics>
+		<Xref Database="BioCyc" ID=""/>
+	</Interaction>
+	<Interaction GraphId="i312.6282300696">
+		<Graphics ZOrder="32821" LineThickness="2.0" Color="cc0033">
+			<Point X="582.2003178331" Y="932.1409640504" GraphRef="EG12008" RelX="0.5" RelY="1.0"/>
+			<Point X="476.1783863337" Y="701.0059975655" GraphRef="G6546" RelX="-0.5" RelY="-1.0" ArrowHead="mim-stimulation"/>
+		</Graphics>
+		<Xref Database="BioCyc" ID=""/>
+	</Interaction>
+	<Interaction GraphId="i430.2859075703">
+		<Graphics ZOrder="32821" LineThickness="2.0" Color="009933">
+			<Point X="858.5313520367" Y="728.7418603166" GraphRef="G6546" RelX="0.5" RelY="1.0"/>
+			<Point X="411.8838797334" Y="395.4700285312" GraphRef="EG11356" RelX="-0.5" RelY="-1.0" ArrowHead="mim-inhibition"/>
+		</Graphics>
+		<Xref Database="BioCyc" ID=""/>
+	</Interaction>
+	<InfoBox CenterX="0.0" CenterY="0.0" />
+	<Biopax />
+</Pathway>

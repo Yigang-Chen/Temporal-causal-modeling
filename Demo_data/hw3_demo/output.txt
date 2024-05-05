@@ -1,0 +1,40 @@
+Name	Type	GraphId
+Tumor-associated
+antigen	GeneProduct	a8e9d
+Pembrolizumab	Metabolite	ac967
+CD8A	GeneProduct	ad5ee
+CD274	GeneProduct	ae75d
+IFNG	GeneProduct	bbd24
+PDCD1LG2	GeneProduct	c29ad
+Ras signaling	Pathway	ca322
+Nivolumab	Metabolite	cc867
+MHC I	Protein	cf68e
+STAT3	GeneProduct	d1337
+Pidilizumab	Metabolite	d9d18
+TRA	GeneProduct	dedef
+JUN	GeneProduct	e2c2e
+Durvalumab	Metabolite	e67ee
+BATF	GeneProduct	e8b31
+Avelumab	Metabolite	e9da1
+Atezolizumab	Metabolite	e9dc5
+CD3D	GeneProduct	ee1ad
+ZAP70	GeneProduct	ef0fd
+LCK	GeneProduct	f1abb
+MDX-1105	Metabolite	f897c
+NFATC1	GeneProduct	f9482
+PDCD1	GeneProduct	fb005
+AMP-224	Metabolite	fb550
+PTPN11	GeneProduct	fb739
+Tislelizumab	Metabolite	fdb08
+TRB	GeneProduct	c44ef
+MHC II	Protein	eba63
+BATF	GeneProduct	ad8ad
+CD3E	GeneProduct	de57b
+CD3G	GeneProduct	d8903
+NFKB1	GeneProduct	ce83f
+PI3K signaling	Pathway	deab0
+CD8B	GeneProduct	c5d3d
+NFATC2	GeneProduct	c5fef
+NFATC3	GeneProduct	d3001
+NFATC4	GeneProduct	dd28d
+NFAT5	GeneProduct	b49a8

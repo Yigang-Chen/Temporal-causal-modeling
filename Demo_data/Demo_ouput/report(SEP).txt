@@ -1,0 +1,439 @@
+Total nodes: 101
+Total edges: 855
+Average degree: 16.93069306930693
+Average degree with attribute '1-2': 2.6534653465346536
+Average degree with attribute '2-3': 3.089108910891089
+Average degree with attribute '3-4': 5.02970297029703
+Average degree with attribute '4-5': 2.792079207920792
+Average degree with attribute '5-6': 3.128712871287129
+Average degree with attribute '6-7': 0.0
+Average degree with attribute '7-8': 0.0
+Average degree with attribute '8-9': 0.0
+Average degree with attribute '9-10': 0.0
+Average degree with attribute '10-11': 0.0
+Average degree with attribute '11-12': 0.0
+Average degree with attribute '12-13': 0.0
+Average degree with attribute '13-14': 0.0
+Average degree with attribute '14-15': 0.0
+Average degree with attribute '15-16': 0.0
+Average degree with attribute '16-17': 0.0
+Average degree with attribute '17-18': 0.0
+Average degree with attribute '18-19': 0.0
+Average degree with attribute '19-20': 0.0
+Degree distribution: defaultdict(<class 'int'>, {9: 2, 64: 1, 16: 1, 77: 1, 1: 8, 39: 1, 2: 11, 23: 3, 27: 1, 7: 2, 88: 1, 69: 1, 45: 2, 19: 2, 44: 2, 65: 1, 68: 1, 37: 1, 26: 1, 123: 1, 6: 11, 8: 3, 12: 2, 5: 7, 3: 9, 22: 2, 41: 1, 60: 1, 13: 4, 17: 2, 11: 4, 14: 1, 30: 1, 43: 1, 20: 1, 46: 1, 15: 1, 29: 1, 4: 4})
+Degree distribution with attribute '1-2': defaultdict(<class 'int'>, {3: 7, 13: 1, 1: 12, 14: 2, 11: 2, 2: 16, 4: 2, 5: 3, 21: 1, 8: 3, 10: 1, 12: 2, 6: 2, 19: 1, 7: 1, 0: 45})
+Rate of change in number of nodes: [0 0 0 0 0]
+Rate of change in number of edges: [  22   98 -113   17 -146]
+Nodes ranked by total degree:
+G6494: Total = 123, In-degree = 17, Out-degree = 106
+EG10457: Total = 88, In-degree = 14, Out-degree = 74
+G7072: Total = 77, In-degree = 18, Out-degree = 59
+EG10547: Total = 69, In-degree = 19, Out-degree = 50
+EG12243: Total = 68, In-degree = 50, Out-degree = 18
+EG11544: Total = 65, In-degree = 44, Out-degree = 21
+EG10320: Total = 64, In-degree = 59, Out-degree = 5
+EG10821;EG11544: Total = 60, In-degree = 43, Out-degree = 17
+EG10164: Total = 46, In-degree = 6, Out-degree = 40
+EG10672: Total = 45, In-degree = 23, Out-degree = 22
+EG10317: Total = 45, In-degree = 20, Out-degree = 25
+EG12242: Total = 44, In-degree = 30, Out-degree = 14
+EG10359: Total = 44, In-degree = 19, Out-degree = 25
+EG10325: Total = 43, In-degree = 8, Out-degree = 35
+EG10821: Total = 41, In-degree = 15, Out-degree = 26
+G6546: Total = 39, In-degree = 34, Out-degree = 5
+EG11356: Total = 37, In-degree = 19, Out-degree = 18
+EG10531: Total = 30, In-degree = 23, Out-degree = 7
+EG10061: Total = 29, In-degree = 4, Out-degree = 25
+EG10338: Total = 27, In-degree = 5, Out-degree = 22
+EG10820: Total = 26, In-degree = 17, Out-degree = 9
+EG10728: Total = 23, In-degree = 6, Out-degree = 17
+G6789: Total = 23, In-degree = 13, Out-degree = 10
+G6494;EG10164: Total = 23, In-degree = 12, Out-degree = 11
+EG10440: Total = 22, In-degree = 5, Out-degree = 17
+EG10958: Total = 22, In-degree = 14, Out-degree = 8
+G7948;EG10821: Total = 20, In-degree = 12, Out-degree = 8
+EG11088: Total = 19, In-degree = 18, Out-degree = 1
+EG11131: Total = 19, In-degree = 2, Out-degree = 17
+EG11609: Total = 17, In-degree = 7, Out-degree = 10
+EG12116: Total = 17, In-degree = 5, Out-degree = 12
+EG10385: Total = 16, In-degree = 11, Out-degree = 5
+G6346: Total = 15, In-degree = 13, Out-degree = 2
+EG10957: Total = 14, In-degree = 11, Out-degree = 3
+EG10070: Total = 13, In-degree = 9, Out-degree = 4
+G8221: Total = 13, In-degree = 8, Out-degree = 5
+EG10681: Total = 13, In-degree = 8, Out-degree = 5
+EG10441: Total = 13, In-degree = 5, Out-degree = 8
+EG10989: Total = 12, In-degree = 12, Out-degree = 0
+G7826: Total = 12, In-degree = 9, Out-degree = 3
+G7947: Total = 11, In-degree = 7, Out-degree = 4
+EG12123: Total = 11, In-degree = 4, Out-degree = 7
+G6882: Total = 11, In-degree = 5, Out-degree = 6
+EG10643: Total = 11, In-degree = 5, Out-degree = 6
+G7575: Total = 9, In-degree = 5, Out-degree = 4
+EG11554: Total = 9, In-degree = 6, Out-degree = 3
+EG10125: Total = 8, In-degree = 6, Out-degree = 2
+EG11434: Total = 8, In-degree = 7, Out-degree = 1
+EG11435: Total = 8, In-degree = 7, Out-degree = 1
+EG10166: Total = 7, In-degree = 3, Out-degree = 4
+EG11449: Total = 7, In-degree = 4, Out-degree = 3
+EG10935: Total = 6, In-degree = 3, Out-degree = 3
+EG10992: Total = 6, In-degree = 4, Out-degree = 2
+EG10291: Total = 6, In-degree = 6, Out-degree = 0
+EG11212: Total = 6, In-degree = 0, Out-degree = 6
+EG12431: Total = 6, In-degree = 6, Out-degree = 0
+EG10442: Total = 6, In-degree = 3, Out-degree = 3
+EG10050: Total = 6, In-degree = 6, Out-degree = 0
+G7057: Total = 6, In-degree = 3, Out-degree = 3
+G6319: Total = 6, In-degree = 6, Out-degree = 0
+G6088: Total = 6, In-degree = 6, Out-degree = 0
+EG10974: Total = 6, In-degree = 5, Out-degree = 1
+EG11966: Total = 5, In-degree = 3, Out-degree = 2
+EG11969: Total = 5, In-degree = 5, Out-degree = 0
+EG12008: Total = 5, In-degree = 3, Out-degree = 2
+G7948: Total = 5, In-degree = 2, Out-degree = 3
+G6864: Total = 5, In-degree = 3, Out-degree = 2
+EG10972: Total = 5, In-degree = 4, Out-degree = 1
+EG10482: Total = 5, In-degree = 2, Out-degree = 3
+EG11366: Total = 4, In-degree = 2, Out-degree = 2
+EG10562: Total = 4, In-degree = 4, Out-degree = 0
+G7546: Total = 4, In-degree = 4, Out-degree = 0
+EG20253: Total = 4, In-degree = 3, Out-degree = 1
+EG10636: Total = 3, In-degree = 3, Out-degree = 0
+EG10819: Total = 3, In-degree = 3, Out-degree = 0
+EG10842: Total = 3, In-degree = 3, Out-degree = 0
+G6638: Total = 3, In-degree = 3, Out-degree = 0
+EG10800: Total = 3, In-degree = 3, Out-degree = 0
+EG10843: Total = 3, In-degree = 2, Out-degree = 1
+EG20249: Total = 3, In-degree = 3, Out-degree = 0
+EG12739: Total = 3, In-degree = 2, Out-degree = 1
+EG10054: Total = 3, In-degree = 3, Out-degree = 0
+EG11615: Total = 2, In-degree = 0, Out-degree = 2
+EG12301: Total = 2, In-degree = 0, Out-degree = 2
+EG11849: Total = 2, In-degree = 2, Out-degree = 0
+G6569: Total = 2, In-degree = 2, Out-degree = 0
+EG11962: Total = 2, In-degree = 2, Out-degree = 0
+G6799: Total = 2, In-degree = 2, Out-degree = 0
+EG10353: Total = 2, In-degree = 2, Out-degree = 0
+EG10801: Total = 2, In-degree = 2, Out-degree = 0
+G6852: Total = 2, In-degree = 1, Out-degree = 1
+G6195: Total = 2, In-degree = 2, Out-degree = 0
+EG11230: Total = 2, In-degree = 2, Out-degree = 0
+EG10020: Total = 1, In-degree = 0, Out-degree = 1
+G7727: Total = 1, In-degree = 1, Out-degree = 0
+EG10184: Total = 1, In-degree = 1, Out-degree = 0
+G7571: Total = 1, In-degree = 0, Out-degree = 1
+EG12112: Total = 1, In-degree = 0, Out-degree = 1
+G6395: Total = 1, In-degree = 0, Out-degree = 1
+EG12335: Total = 1, In-degree = 1, Out-degree = 0
+EG11042: Total = 1, In-degree = 1, Out-degree = 0
+
+Identical edges ranked by frequency:
+('EG10320', 'EG11356', 1, 1): 5
+('EG10385', 'G7072', 1, 1): 5
+('G7072', 'EG10672', 1, 1): 5
+('G7072', 'EG10820', 1, 1): 5
+('G7072', 'EG10547', 1, 1): 5
+('G7072', 'EG11544', 1, 1): 5
+('G7072', 'EG12243', 1, 1): 5
+('G7072', 'EG10728', 1, 1): 5
+('G7072', 'EG10531', 1, 1): 5
+('G6546', 'EG11356', 1, 1): 5
+('EG10728', 'EG10338', 1, 1): 5
+('EG10338', 'G6494', 1, 1): 5
+('EG10338', 'G6546', 1, 1): 5
+('EG10338', 'G8221', 1, 1): 5
+('EG10457', 'EG10320', 1, 1): 5
+('EG10457', 'EG10547', 1, 1): 5
+('EG10457', 'EG11356', 1, 1): 5
+('EG10547', 'EG11969', 1, 1): 5
+('EG10547', 'EG10070', 1, 1): 5
+('EG10547', 'EG10958', 1, 1): 5
+('EG10547', 'G7072', 1, 1): 5
+('EG10547', 'EG12242', 1, 1): 5
+('EG10547', 'G6882', 1, 1): 5
+('EG10672', 'EG10320', 1, 1): 5
+('EG10672', 'EG12116', 1, 1): 5
+('EG12242', 'EG11544', 1, 1): 5
+('EG12242', 'EG12243', 1, 1): 5
+('EG11544', 'EG10547', 1, 1): 5
+('EG11544', 'EG12243', 1, 1): 5
+('EG12243', 'EG11544', 1, 1): 5
+('EG12243', 'EG10457', 1, 1): 5
+('EG11356', 'EG11544', 1, 1): 5
+('EG11356', 'EG10821;EG11544', 1, 1): 5
+('EG10820', 'EG10320', 1, 1): 5
+('G6494', 'EG10440', 1, 1): 5
+('G6494', 'EG11544', 1, 1): 5
+('G6494', 'EG10320', 1, 1): 5
+('G6494', 'EG10359', 1, 1): 5
+('G6494', 'G6546', 1, 1): 5
+('G6494', 'EG10317', 1, 1): 5
+('G6494', 'EG10681', 1, 1): 5
+('G6494', 'EG10672', 1, 1): 5
+('G6494', 'EG10821;EG11544', 1, 1): 5
+('G6494', 'EG12243', 1, 1): 5
+('G6494', 'G6494;EG10164', 1, 1): 5
+('EG10440', 'EG10441', 1, 1): 5
+('EG10440', 'EG10317', 1, 1): 5
+('EG10440', 'EG10672', 1, 1): 5
+('EG10821', 'EG10320', 1, 1): 5
+('EG10821', 'G6789', 1, 1): 5
+('EG10821;EG11544', 'EG11544', 1, 1): 5
+('EG10821;EG11544', 'EG12243', 1, 1): 5
+('EG10821;EG11544', 'EG10821', 1, 1): 5
+('G8221', 'G6494', 1, 1): 5
+('EG10359', 'EG10320', 1, 1): 5
+('EG10359', 'EG10325', 1, 1): 5
+('EG10317', 'EG10457', 1, 1): 5
+('EG10681', 'EG10359', 1, 1): 5
+('EG10958', 'EG10359', 1, 1): 5
+('G6494;EG10164', 'EG10164', 1, 1): 5
+('G7575', 'EG10320', 1, 1): 4
+('G7072', 'EG10992', 1, 1): 4
+('G7072', 'EG11609', 1, 1): 4
+('G7072', 'EG10821;EG11544', 1, 1): 4
+('EG10728', 'EG12242', 1, 1): 4
+('EG10728', 'EG12243', 1, 1): 4
+('EG10338', 'EG11088', 1, 1): 4
+('EG10166', 'EG10457', 1, 1): 4
+('EG10457', 'EG11449', 1, 1): 4
+('EG10457', 'G6546', 1, 1): 4
+('EG10457', 'EG11544', 1, 1): 4
+('EG10457', 'EG10820', 1, 1): 4
+('EG10457', 'EG10821;EG11544', 1, 1): 4
+('EG10457', 'G6789', 1, 1): 4
+('EG10457', 'EG10821', 1, 1): 4
+('EG10457', 'EG10531', 1, 1): 4
+('EG10547', 'EG12123', 1, 1): 4
+('EG10547', 'G7575', 1, 1): 4
+('EG10672', 'EG11088', 1, 1): 4
+('EG10672', 'G6546', 1, 1): 4
+('EG12242', 'EG10821;EG11544', 1, 1): 4
+('EG11544', 'EG10820', 1, 1): 4
+('EG12243', 'EG10821;EG11544', 1, 1): 4
+('EG12243', 'EG12242', 1, 1): 4
+('EG11356', 'EG10320', 1, 1): 4
+('EG10820', 'G6546', 1, 1): 4
+('G6494', 'EG11088', 1, 1): 4
+('G6494', 'EG10385', 1, 1): 4
+('EG10821', 'EG10820', 1, 1): 4
+('EG10821', 'EG12243', 1, 1): 4
+('EG10821', 'EG10821;EG11544', 1, 1): 4
+('EG10359', 'EG10957', 1, 1): 4
+('EG10359', 'G7072', 1, 1): 4
+('EG11609', 'G6789', 1, 1): 4
+('G6789', 'EG11544', 1, 1): 4
+('G7947', 'EG10320', 1, 1): 4
+('EG10317', 'EG10385', 1, 1): 4
+('EG10441', 'EG10317', 1, 1): 4
+('EG10531', 'G7947', 1, 1): 4
+('EG12123', 'EG10320', 1, 1): 4
+('EG12116', 'EG10320', 1, 1): 4
+('EG12116', 'EG10957', 1, 1): 4
+('EG10325', 'EG10643', 1, 1): 4
+('EG10325', 'EG10061', 1, 1): 4
+('EG10325', 'G7072', 1, 1): 4
+('EG10325', 'EG12243', 1, 1): 4
+('G7948;EG10821', 'EG10821', 1, 1): 4
+('EG10164', 'EG10359', 1, 1): 4
+('EG10164', 'EG10317', 1, 1): 4
+('EG10164', 'EG10320', 1, 1): 4
+('EG10061', 'EG10070', 1, 1): 4
+('G7072', 'EG10935', 1, 1): 3
+('G7072', 'G7057', 1, 1): 3
+('EG10728', 'G6319', 1, 1): 3
+('EG10457', 'EG10125', 1, 1): 3
+('EG10457', 'EG11966', 1, 1): 3
+('EG10457', 'EG11609', 1, 1): 3
+('EG10457', 'EG12242', 1, 1): 3
+('EG10457', 'G7947', 1, 1): 3
+('EG10457', 'G7948;EG10821', 1, 1): 3
+('EG11449', 'EG10320', 1, 1): 3
+('EG10547', 'EG10531', 1, 1): 3
+('EG10547', 'G6638', 1, 1): 3
+('EG10547', 'EG11554', 1, 1): 3
+('EG10672', 'EG10125', 1, 1): 3
+('EG11544', 'EG12242', 1, 1): 3
+('EG11544', 'EG10821;EG11544', 1, 1): 3
+('EG11356', 'EG12008', 1, 1): 3
+('G6494', 'EG10819', 1, 1): 3
+('G6494', 'EG12431', 1, 1): 3
+('G6494', 'G7826', 1, 1): 3
+('G6494', 'G6346', 1, 1): 3
+('EG10935', 'EG12242', 1, 1): 3
+('EG10359', 'EG10291', 1, 1): 3
+('EG10359', 'EG10800', 1, 1): 3
+('EG11609', 'EG11544', 1, 1): 3
+('EG11609', 'EG10821;EG11544', 1, 1): 3
+('G6789', 'EG10821;EG11544', 1, 1): 3
+('G6789', 'EG12242', 1, 1): 3
+('EG10317', 'G6494', 1, 1): 3
+('EG10317', 'EG10166', 1, 1): 3
+('EG10317', 'EG12243', 1, 1): 3
+('EG10317', 'G8221', 1, 1): 3
+('EG10957', 'EG10958', 1, 1): 3
+('EG10441', 'EG10672', 1, 1): 3
+('EG10531', 'G7948;EG10821', 1, 1): 3
+('EG12123', 'EG10531', 1, 1): 3
+('EG10325', 'G7826', 1, 1): 3
+('EG10325', 'EG11088', 1, 1): 3
+('EG10325', 'EG10958', 1, 1): 3
+('EG10325', 'G6346', 1, 1): 3
+('EG10325', 'EG10957', 1, 1): 3
+('G6882', 'EG10291', 1, 1): 3
+('G6882', 'EG10531', 1, 1): 3
+('G6494;EG10164', 'G6494', 1, 1): 3
+('EG10164', 'EG10681', 1, 1): 3
+('EG10164', 'EG10672', 1, 1): 3
+('EG10164', 'EG11088', 1, 1): 3
+('EG10164', 'EG12243', 1, 1): 3
+('EG10164', 'EG10385', 1, 1): 3
+('G7826', 'G6346', 1, 1): 3
+('EG10442', 'G6494;EG10164', 1, 1): 3
+('EG10643', 'G7826', 1, 1): 3
+('EG11554', 'EG10531', 1, 1): 3
+('EG10061', 'G6864', 1, 1): 3
+('EG10061', 'EG12431', 1, 1): 3
+('G7057', 'G6319', 1, 1): 3
+('G7072', 'EG10989', 1, 1): 2
+('EG10457', 'EG12243', 1, 1): 2
+('EG10457', 'EG10050', 1, 1): 2
+('G6494', 'EG11849', 1, 1): 2
+('G6494', 'EG10636', 1, 1): 2
+('G6494', 'EG10989', 1, 1): 2
+('G6494', 'G6569', 1, 1): 2
+('G6494', 'G6799', 1, 1): 2
+('G6494', 'EG10482', 1, 1): 2
+('EG10125', 'G6546', 1, 1): 2
+('EG10992', 'EG10989', 1, 1): 2
+('EG11966', 'EG12243', 1, 1): 2
+('EG10440', 'EG10989', 1, 1): 2
+('EG10821', 'G7948;EG10821', 1, 1): 2
+('EG12008', 'G6546', 1, 1): 2
+('EG10070', 'EG11554', 1, 1): 2
+('EG10070', 'EG10547', 1, 1): 2
+('EG12116', 'EG10958', 1, 1): 2
+('EG10325', 'EG12242', 1, 1): 2
+('G7948', 'G7948;EG10821', 1, 1): 2
+('G7948;EG10821', 'EG10531', 1, 1): 2
+('EG11212', 'EG11356', 1, 1): 2
+('EG11212', 'EG11131', 1, 1): 2
+('EG11212', 'EG10547', 1, 1): 2
+('EG11131', 'EG11356', 1, 1): 2
+('EG11131', 'EG10317', 1, 1): 2
+('EG11131', 'EG10672', 1, 1): 2
+('EG11131', 'EG10320', 1, 1): 2
+('EG11131', 'EG10325', 1, 1): 2
+('EG11131', 'G6546', 1, 1): 2
+('EG11131', 'G6494;EG10164', 1, 1): 2
+('EG11131', 'EG10442', 1, 1): 2
+('G6346', 'EG10050', 1, 1): 2
+('EG10643', 'G6346', 1, 1): 2
+('EG10061', 'EG10050', 1, 1): 2
+('EG10061', 'EG11544', 1, 1): 2
+('EG10061', 'EG10821;EG11544', 1, 1): 2
+('EG10061', 'G6346', 1, 1): 2
+('EG10061', 'EG12243', 1, 1): 2
+('G6864', 'G6546', 1, 1): 2
+('EG10482', 'EG12242', 1, 1): 2
+('G7072', 'EG10974', 1, 1): 1
+('G7072', 'G6088', 1, 1): 1
+('G7072', 'EG11435', 1, 1): 1
+('G7072', 'EG12335', 1, 1): 1
+('EG10020', 'G6546', 1, 1): 1
+('EG11615', 'G6546', 1, 1): 1
+('EG11615', 'G7575', 1, 1): 1
+('EG10728', 'G6195', 1, 1): 1
+('EG10338', 'EG11434', 1, 1): 1
+('EG10338', 'EG11435', 1, 1): 1
+('EG10338', 'G7546', 1, 1): 1
+('EG10457', 'G6088', 1, 1): 1
+('EG10457', 'EG10972', 1, 1): 1
+('EG10457', 'EG10974', 1, 1): 1
+('EG10457', 'EG11554', 1, 1): 1
+('EG10457', 'G7948', 1, 1): 1
+('EG10547', 'EG10184', 1, 1): 1
+('EG10547', 'EG10562', 1, 1): 1
+('EG10547', 'EG11042', 1, 1): 1
+('EG10672', 'EG11366', 1, 1): 1
+('EG11088', 'EG11962', 1, 1): 1
+('EG11544', 'EG10821;EG11544', 5, 1): 1
+('EG11356', 'G6546', 1, 1): 1
+('EG12301', 'EG12243', 1, 1): 1
+('EG12301', 'EG12242', 1, 1): 1
+('G6494', 'G6494;EG10164', 5, 1): 1
+('G6494', 'EG10842', 1, 1): 1
+('G6494', 'EG10843', 1, 1): 1
+('G6494', 'G7727', 1, 1): 1
+('G6494', 'G6088', 1, 1): 1
+('G6494', 'EG11434', 1, 1): 1
+('G6494', 'EG20249', 1, 1): 1
+('G6494', 'EG10353', 1, 1): 1
+('G6494', 'EG10972', 1, 1): 1
+('G6494', 'EG10974', 1, 1): 1
+('G6494', 'EG11435', 1, 1): 1
+('G6494', 'EG12739', 1, 1): 1
+('G6494', 'EG10562', 1, 1): 1
+('G6494', 'G6852', 1, 1): 1
+('G6494', 'G6195', 1, 1): 1
+('G6494', 'EG10054', 1, 1): 1
+('G6494', 'G7546', 1, 1): 1
+('G6494', 'EG11230', 1, 1): 1
+('G6494', 'EG20253', 1, 1): 1
+('EG10821', 'EG10821;EG11544', 5, 1): 1
+('EG10821', 'G7948;EG10821', 5, 1): 1
+('EG10821;EG11544', 'EG10821', 5, 1): 1
+('EG10821;EG11544', 'EG11544', 5, 1): 1
+('EG10359', 'EG10958', 1, 1): 1
+('EG10317', 'EG11434', 1, 1): 1
+('EG10317', 'EG11435', 1, 1): 1
+('EG10317', 'G7546', 1, 1): 1
+('EG10317', 'EG20253', 1, 1): 1
+('EG10441', 'EG10989', 1, 1): 1
+('EG10958', 'EG11434', 1, 1): 1
+('EG10958', 'EG11435', 1, 1): 1
+('EG10958', 'EG11366', 1, 1): 1
+('EG12116', 'EG11434', 1, 1): 1
+('EG12116', 'EG11435', 1, 1): 1
+('EG10325', 'G6088', 1, 1): 1
+('EG10325', 'EG10989', 1, 1): 1
+('G7948', 'G7948;EG10821', 5, 1): 1
+('G7948;EG10821', 'G7948', 5, 1): 1
+('G7948;EG10821', 'EG10821', 5, 1): 1
+('G6494;EG10164', 'G6494', 5, 1): 1
+('G6494;EG10164', 'EG10164', 5, 1): 1
+('G6494;EG10164', 'EG10442', 1, 1): 1
+('EG10164', 'G6494;EG10164', 5, 1): 1
+('EG10164', 'EG10842', 1, 1): 1
+('EG10164', 'EG10636', 1, 1): 1
+('EG10164', 'EG10843', 1, 1): 1
+('EG10164', 'G6088', 1, 1): 1
+('EG10164', 'EG10989', 1, 1): 1
+('EG10164', 'EG20249', 1, 1): 1
+('EG10164', 'EG10353', 1, 1): 1
+('EG10164', 'EG10972', 1, 1): 1
+('EG10164', 'EG10974', 1, 1): 1
+('EG10164', 'EG10562', 1, 1): 1
+('EG10164', 'EG10054', 1, 1): 1
+('EG10164', 'EG11230', 1, 1): 1
+('EG11131', 'EG10989', 1, 1): 1
+('EG10643', 'G6088', 1, 1): 1
+('EG10843', 'EG10842', 1, 1): 1
+('EG10061', 'EG11962', 1, 1): 1
+('EG10061', 'EG10801', 1, 1): 1
+('EG10061', 'EG10325', 1, 1): 1
+('EG10061', 'G7546', 1, 1): 1
+('EG10061', 'EG20253', 1, 1): 1
+('EG10974', 'EG10972', 1, 1): 1
+('EG11434', 'EG10801', 1, 1): 1
+('EG10972', 'EG10974', 1, 1): 1
+('EG11435', 'EG11434', 1, 1): 1
+('EG10482', 'EG12739', 1, 1): 1
+('EG12739', 'EG20249', 1, 1): 1
+('G7571', 'G6546', 1, 1): 1
+('EG11366', 'EG11434', 1, 1): 1
+('EG11366', 'EG11435', 1, 1): 1
+('EG12112', 'EG10728', 1, 1): 1
+('G6852', 'EG10562', 1, 1): 1
+('G6395', 'EG10643', 1, 1): 1
+('EG20253', 'EG10054', 1, 1): 1
